@@ -12,3 +12,5 @@ Welcome to my Quarto website.
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![./image/Fragment_4_8k.jpg]{width-"100%" fig-align-"center"}
