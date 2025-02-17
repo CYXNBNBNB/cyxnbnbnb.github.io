@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: webside/_site
+  output-dir: web_output
 
 website:
   title: "Yuxuan Chen"
