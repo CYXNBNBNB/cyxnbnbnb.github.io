@@ -5,5 +5,4 @@ body {
   height: 100vh;
   background: url('images/background.jpg') no-repeat center center;
   background-size: cover; /* 背景图片按比例缩放，填充整个页面 */
-  background-attachment: fixed; /* 背景固定，不随页面滚动 */
 }
