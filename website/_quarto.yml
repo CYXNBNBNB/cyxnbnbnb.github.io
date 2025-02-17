@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: ../docs  # 让 Quarto 输出到 docs 目录
 
 website:
   title: "Yuxuan Chen"
