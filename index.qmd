@@ -4,8 +4,12 @@ author: "Yuxuan Chen"
 date: "2025-01-30"
 format:
   html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl # 这里可以替换为你需要的引用格式，例如 IEEE、Chicago、APA 等
+    #nocite: '@*'  # 让所有参考文献都显示，即使没有引用
     theme: cosmo
     toc: true
+    css: styles.css
 ---
 # Hello, World!  
 Welcome to my Quarto website.  
