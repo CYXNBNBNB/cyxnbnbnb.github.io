@@ -1,8 +1,10 @@
 /* css styles */
-body {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  background: url('images/background.jpg') no-repeat center center;
-  background-size: cover; /* 背景图片按比例缩放，填充整个页面 */
+.title {
+  background-image: url("images/background.jpg"); 
+  background-size: cover; 
+  background-position: center;
+  color: white; 
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
 }
