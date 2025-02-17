@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
+    "objectID": "documents.html",
+    "href": "documents.html",
+    "title": "Listing Example",
     "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website.\nMy Email： cyxnbnb@bu.edu\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nFragment 4"
+    "text": "About\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Website\n\n\n\n\n\n\n\n\n\n\n\nJan 30, 2025\n\n\nYuxuan Chen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello, World!\nWelcome to my Quarto website.\nMy Email： cyxnbnb@bu.edu\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nFragment 4"
   }
 ]
