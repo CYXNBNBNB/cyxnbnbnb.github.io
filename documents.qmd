@@ -1,4 +1,12 @@
 ---
 title: "Listing Example"
 listing: default
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+    nocite: '@*'  # 让所有参考文献都显示，即使没有引用
 ---
+
+# References
