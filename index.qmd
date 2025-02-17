@@ -14,7 +14,7 @@ format:
 # Hello, World!  
 Welcome to my Quarto website.  
 a&nbsp;&nbsp;&nbsp;&nbsp;b
-My Email： cyxnbnb@bu.edu
+My Email: cyxnbnb@bu.edu
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
