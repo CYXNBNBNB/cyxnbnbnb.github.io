@@ -9,6 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Home Page
+            href:  https://github.com/CYXNBNBNB
+          - text: Source Code
+            href:  https://github.com/CYXNBNBNB/cyxnbnbnb.github.io
 
 format:
   html:
