@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "About me"
 ---
 
+<img src="images/myphoto.jpg" alt="Yuxuan Chen" width="200" style="border-radius: 50%;">
 personal information
 resume
