@@ -5,3 +5,6 @@ title: "About me"
 <img src="images/myphoto.jpg" alt="Yuxuan Chen" width="200" style="border-radius: 50%;">
 personal information
 resume
+
+### Contact
+[GitHub](https://github.com/CYXNBNBNB) | [Email](mailto:your.email@example.com)
