@@ -1,10 +1,23 @@
 ---
-title: "About Me"
+title: Yuxuan Chen
+image: profile.png
+about:
+  template: jolla
+  image: "images/myphoto.jpg"
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: Envelope
+      text: Email
+      href: cyxnbnb@bu.edu
+    - icon: github
+      text: Github
+      href: https://github.com/CYXNBNBNB
 ---
-
+<h1 class="no-background">About me</h1>
 <img src="images/myphoto.jpg" alt="Yuxuan Chen" width="200" style="border-radius: 50%;">
 personal information
 resume
 
 ### Contact
-[GitHub](https://github.com/CYXNBNBNB) | [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/CYXNBNBNB) | [Email](cyxnbnb@bu.edu)

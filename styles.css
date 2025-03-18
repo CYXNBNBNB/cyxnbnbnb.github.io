@@ -8,12 +8,6 @@
   padding: 40px;
   border-radius: 10px;
   text-align: center;
-
-      /* 描边效果 */
-      -webkit-text-stroke: 2px #f6d7c493;
-      text-stroke: 2px #f6d7c493;
-      text-shadow: 
-          0 0 4px rgba(255, 255, 255, 0.5); /* 光晕效果 */
 }
 
 
@@ -29,4 +23,18 @@
   opacity: 0; /* 初始隐藏 */
   animation: fadeIn 1s ease-in-out forwards;
   text-align: center;
+}
+
+/* 设置网页背景 */
+body {
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), /* 浅灰色 */
+    url("images/background2.jpg"); /* 背景图片 */
+  height: 100vh; /* 使 body 占满整个视口高度 */
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  background-size: cover; /* 背景图覆盖整个区域 */
+  background-position: center; /* 背景图居中 */
+  background-repeat: no-repeat; /* 防止重复 */
 }
