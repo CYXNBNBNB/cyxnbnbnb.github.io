@@ -31,5 +31,3 @@ Email: cyxnbnb@bu.edu  cyxnbnbnb@gmail.com
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-![Fragment 4](./images/Fragment_4.jpg){width="100%" fig-align="center"}
