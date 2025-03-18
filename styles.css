@@ -8,6 +8,12 @@
   padding: 40px;
   border-radius: 10px;
   text-align: center;
+
+      /* 描边效果 */
+      -webkit-text-stroke: 2px #f6d7c493;
+      text-stroke: 2px #f6d7c493;
+      text-shadow: 
+          0 0 4px rgba(255, 255, 255, 0.5); /* 光晕效果 */
 }
 
 
