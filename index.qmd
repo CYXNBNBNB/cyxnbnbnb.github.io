@@ -1,12 +1,12 @@
 ---
-title: "Welcome to My Website"
+title: "Yuxuan Chen"
 about:
   template: jolla
   image: "images/myphoto.jpg"
   image-width: 10em
   image-shape: round
   links:
-    - icon: Envelope
+    - icon: envelope
       text: Email
       href: cyxnbnb@bu.edu
     - icon: github
