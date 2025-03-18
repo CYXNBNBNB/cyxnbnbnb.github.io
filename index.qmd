@@ -1,5 +1,6 @@
 ---
 title: "Yuxuan Chen"
+subtitle: "陈宇轩"
 about:
   template: jolla
   image: "images/myphoto.jpg"
