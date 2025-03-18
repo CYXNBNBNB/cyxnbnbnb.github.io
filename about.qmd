@@ -17,16 +17,19 @@ format:
     #nocite: '@*'  # 让所有参考文献都显示，即使没有引用
     theme: cosmo
     toc: true
+    toc-depth: 2
     css: styles.css
 ---
 
 ## Chen Yuxuan
+
 Phone: 86-13957992893  Email: cyxnbnb@bu.edu
 Address:  5 Walbridge St. Apt 12, Boston, MA, United State
           Zhejiang University of Technology, Xihu District, Hangzhou, Zhejiang, China
 
 
 ## Education
+
 *Zhejiang University of Technology*                            Sept 2020 - June 2024
 BS in Mathematics and Applied Mathematics  
 Relevant Courses: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics
@@ -75,6 +78,7 @@ Title: Finance Department Assistant
 
 
 ## Research Projects
+
 *Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis*
 •	Role: Programmer
 •	Description: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
@@ -96,6 +100,7 @@ Title: Finance Department Assistant
 
 
 ## Extracurricular Activities
+
 *Zhejiang University of Technology Jinghong Network*               Sept 2020 - June 2021
 Title: Officer
 •	Responsible for liaising and collaborating with numerous large, medium, and small enterprises, organizing multiple on-campus events. Experienced in comprehensive planning, promotion, on-site management, and resource allocation for these events, adept at handling unexpected situations.
@@ -107,6 +112,7 @@ Title: Team Leader
 
 
 ## Skills
+
 •	English Proficiency: CET4, CET6
 •	Technical Skills: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, SPSS, Statistics
 
