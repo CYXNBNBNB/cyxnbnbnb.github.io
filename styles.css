@@ -28,7 +28,7 @@
 /* 设置网页背景 */
 body {
   background-image: 
-    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), /* 浅灰色 */
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.80)), 
     url("images/background2.jpg"); /* 背景图片 */
   height: 100vh; /* 使 body 占满整个视口高度 */
   display: flex;
