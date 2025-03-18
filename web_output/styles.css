@@ -37,4 +37,5 @@ body {
   background-size: cover; /* 背景图覆盖整个区域 */
   background-position: center; /* 背景图居中 */
   background-repeat: no-repeat; /* 防止重复 */
+  background-attachment: fixed; /* 背景固定，不随页面滚动 */
 }
