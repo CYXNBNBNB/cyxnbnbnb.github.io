@@ -17,7 +17,6 @@ format:
     #nocite: '@*'  # 让所有参考文献都显示，即使没有引用
     theme: cosmo
     toc: true
-    # toc-depth: 2
     css: styles.css
 ---
 
