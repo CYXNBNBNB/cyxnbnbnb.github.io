@@ -4,7 +4,7 @@ subtitle: "陈宇轩"
 about:
   template: jolla
   image: "images/myphoto.jpg"
-  image-width: 10em
+  image-width: 15em
   image-shape: round
   links:
     - icon: envelope
