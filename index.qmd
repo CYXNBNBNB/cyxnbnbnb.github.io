@@ -13,8 +13,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/CYXNBNBNB
-format: html
-css: styles_home.css 
+format:
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl # 这里可以替换为你需要的引用格式，例如 IEEE、Chicago、APA 等
+    #nocite: '@*'  # 让所有参考文献都显示，即使没有引用
+    theme: cosmo
+    toc: true
+    # toc-depth: 2
+    css: styles_home.css
 ---
 &nbsp;&nbsp;
 Phone: 86-13957992893 &nbsp;&nbsp; 1-8572564713
