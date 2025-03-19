@@ -13,6 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/CYXNBNBNB
+
+# 设置页面格式
 format:
   html:
     bibliography: references.bib
@@ -21,7 +23,7 @@ format:
     theme: cosmo
     toc: true
     # toc-depth: 2
-    css: styles_home.css
+    css: styles_home.css  # 样式文件
 ---
 &nbsp;&nbsp;
 Phone: 86-13957992893 &nbsp;&nbsp; 1-8572564713
