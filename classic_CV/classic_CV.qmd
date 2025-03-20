@@ -1,11 +1,11 @@
 ---
-author: David Schoch
-title: R Developer
+author: Yuxuan Chen
+#title: 
 format:
   classic-cv-pdf: default
-cvfooter:
-  left: "mr.schochastics.net"
-  right: "github.com/schochastics"
+#cvfooter:
+#  left: "mr.schochastics.net"
+#  right: "github.com/schochastics"
 cvcolor: 58748F #without `#`
 cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvmeta:
@@ -54,10 +54,14 @@ tibble::tribble(
     ~role, ~institution, ~dates, ~details, ~tasks,
     "Team Lead", "GESIS - Leibniz Institute for the Social Sciences", "Mar. 2022 - Present",
     "Transparent Social Analytics, Department of Computational Social Science", c("Coordination of a project to build an Open Science platform with reusable code and tutorials", "Research on Open Science Practices", "Implementation of tools to enhance reproducibility and facilitate research with digital data in R"),
+
     "Presidential Fellow", "University of Manchester", "Sep. 2018 - Feb. 2022",
     "Sociology Department", c("Research on Disinformation on Social Media", "Analyses of large scale and unstructured data sets with R, Python and Bash"),
+
     "Post Doctoral Researcher", "ETH Zurich", "Nov. 2017 - Aug. 2018", "Chair of Social Networks", c("Developing new methods to analyze social networks", "Implementing methods in libraries", "Gathering and analyzing large datsets from Social Media APIs"),
+
     "Post Doctoral Researcher", "University of Konstanz", "Oct. 2015 - Oct. 2017", "Department of Computer & Information Science", c("Developing new methods to analyze social networks", "Implementing methods in libraries", "Webscraping and harmonizing a large corpus of football data"),
+
     "Ph.D. Candidate", "University of Konstanz", "Nov. 2012 - Sep. 2015", "Department of Computer & Information Science", c("Developing new methods to analyze social networks", "Implementing methods in libraries")
 ) |>
     cvevents(when = "dates", what = "role", where = "institution", details = "tasks")
@@ -69,9 +73,12 @@ tibble::tribble(
 #| label: education
 #| output: asis
 tibble::tribble(
-    ~degree, ~uni, ~loc, ~dates, ~details,
-    "Ph.D. in Computer Science", "University of Konstanz", "Konstanz, Germany", "Nov. 2012 - Sep. 2015", c("Thesis: A Positional Approach for Network Centrality", "Developed and implemented new methods to assess network centrality"),
-    "Diploma in Business Mathematics", "KIT", "Karlsruhe, Germany", "Sep. 2006 - Jul. 2012", c("Thesis: Modularity Maximization", "Implementation and comparison of different clustering algorithms using Matlab")
+    ~degree, ~uni, ~dates, ~details,
+    "BS in Mathematics and Applied Mathematics", "Zhejiang University of Technology", "Sep. 2020 - June. 2024", c("Relevant Courses: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics"),
+
+    "Value Investment Techniques: Advanced Application and Exploration Research of Valuation Models in CFA Certification", "Columbia University\\newline", "Jul. 2023 – Aug. 2023", c("•	Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.", "•	Utilized Pearson correlation coefficients to discuss the correlations among the data and employed function fitting to generate graphs, exploring the impact of various indicators on valuation and their application within valuation models."),
+
+    "MS in Applied Business Analytics", "Boston University", "Sep. 2024 - Jun. 2025", c("Relevant Courses: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.")
 ) |>
-    cvevents(when = "dates", what = "degree", where = "loc", details = "details")
+    cvevents(when = "dates", what = "degree", where = "uni", details = "details")
 ```

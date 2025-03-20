@@ -22,10 +22,12 @@ format:
         \setlength{\columnsep}{3em}
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf Yuxuan Chen}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}hello@alexbass.me ∙ \href{https://alexbass.me/projects.html}{Portfolio} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn}
+\begin{center}Email: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
+Phone: +1 8572564713 ∙ +86 13957992893 \\
+\href{https://github.com/CYXNBNBNB}{Github} 
 \end{center}
 \vspace{15pt}
 
