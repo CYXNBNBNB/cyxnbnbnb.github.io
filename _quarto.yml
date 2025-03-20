@@ -12,6 +12,8 @@ website:
         text: About Me
       - href: documents.qmd
         text: Documents
+#      - href: resume.qmd
+#        text: Résumé
 
     tools:
       - icon: github

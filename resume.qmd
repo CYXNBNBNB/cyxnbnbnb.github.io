@@ -27,7 +27,8 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}Email: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
 Phone: +1 8572564713 ∙ +86 13957992893 \\
-\href{https://github.com/CYXNBNBNB}{Github} 
+Address:  Apt 12, 5 Walbridge St., Boston, MA \\
+Link: \href{https://github.com/CYXNBNBNB}{Github} 
 \end{center}
 \vspace{15pt}
 
@@ -37,29 +38,56 @@ Phone: +1 8572564713 ∙ +86 13957992893 \\
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf University of Virginia}\end{flushleft}
-    \begin{flushright}Charlottesville, VA\end{flushright}
+    \begin{flushleft}{\bf Zhejiang University of Technology}\end{flushleft}
+    \begin{flushright}Sep. 2020 - Jun. 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Master of Science: Data Science\end{flushleft}
+    \begin{flushleft}BS in Mathematics and Applied Mathematics\end{flushleft}
   \end{multicols}
+  \vspace{-0.20cm}
 \end{large}
+* **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
 
-\vspace{0.05cm}
+\vspace{0.2cm}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Brigham Young University}\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
+    \begin{flushleft}{\bf Columbia University}\end{flushleft}
+    \begin{flushright}Jul. 2023 – Aug. 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\textbf{Value Investment Techniques}: Advanced Application and Exploration Research of Valuation Models in CFA Certification}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+\vspace{1.5pt}
+
+* Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.
+* Utilized Pearson correlation coefficients to discuss the correlations among the data and employed function fitting to generate graphs, exploring the impact of various indicators on valuation and their application within valuation models.
+
+\vspace{0.2cm}
+
+<!-- EDUCATION: 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Boston University}\end{flushleft}
+    \begin{flushright}Sep. 2024 - Jun. 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}Bachelor of Arts: Political Science\end{flushleft}
   \end{multicols}
+  \vspace{-0.20cm}
 \end{large}
+
+* **Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
+
 \vspace{1.5pt}
+
 
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
