@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: "résumé"
+subtitle: "Résumé"
 author:
   - name: Yuxuan Chen
     affiliations:

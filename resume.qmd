@@ -21,13 +21,9 @@ format:
         \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
         \setlength{\columnsep}{3em}
     number-sections: False # 取消自动编号
-    output-file: "YuxuanChen.pdf"
-  html: 
-    toc: False # 禁用目录
-    number-sections: False
-    fontsize: '16px'
-    theme: cosmo
-    css: styles.css
+
+# quarto render resume.qmd --to pdf --output-dir Documents
+  
 ---
 <!-- TITLE -->
 \begin{huge}\begin{center}{\bf Yuxuan Chen}\end{center}\end{huge}
