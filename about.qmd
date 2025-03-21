@@ -120,5 +120,5 @@ Title: Team Leader
 
 ## Skills
 <hr style="height:3px; border:none; background-color:black;">
-*	Technical Skills: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, SPSS, Statistics
+*	Technical Skills: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
 
