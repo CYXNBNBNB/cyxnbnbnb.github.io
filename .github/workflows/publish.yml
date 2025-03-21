@@ -25,6 +25,11 @@ jobs:
       - run: pip install jupyter
       - run: pip install -r requirements.txt
 
+      - name: Install TeX Live (No R)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-xetex texlive-fonts-recommended texlive-fonts-extra
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
