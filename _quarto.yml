@@ -13,7 +13,7 @@ website:
           - href: about.qmd
             text: Profile 
           - href: resume.qmd
-            text: Résumé
+            text: Résumé Download
       - href: documents.qmd
         text: Documents
 
