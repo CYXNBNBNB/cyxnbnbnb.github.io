@@ -232,5 +232,5 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
   \vspace{3pt}
   \hrule
 \end{large}
-**Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, SPSS, Statistics
+**Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
 
