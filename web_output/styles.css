@@ -57,6 +57,9 @@ body {
   background-color: #f8f9fa;    /* 背景色 */
   border-radius: 5px;           /* 圆角边框 */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+  min-width: 150px;                  /* 最小宽度，避免过小 */
+  padding: 8px 0;                    /* 上下内边距 */
+  transition: box-shadow 0.3s;       /* 阴影过渡效果 */
 }
 
 /* 悬停时菜单项变色 */
