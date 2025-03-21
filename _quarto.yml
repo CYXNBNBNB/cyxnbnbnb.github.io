@@ -10,10 +10,11 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
-      - href: documents.qmd
-        text: Documents
       - href: resume.qmd
         text: Résumé
+      - href: documents.qmd
+        text: Documents
+
 
     tools:
       - icon: github
