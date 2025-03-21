@@ -156,31 +156,70 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
 
 
 
-<!-- PERSONAL PROJECTS : 1ST BULLET -->
-\begin{large}
-{\bf SELECTED PROJECTS}
+<!--Research Projects : 1ST BULLET -->
+\begin{large}{\bf Research Projects}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/school-shootings}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
+  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
+    \begin{flushright}Jul. 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
 \end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used **hierarchal negative binomial model** to predict shootings and make inferences about gun laws
+\vspace{-0.16cm}
+* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 3RD BULLET -->
+<!-- Research Projects : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/star_wars_capstone/}{Political Message Detection and Likeability in Films}}\end{flushleft}
-    \begin{flushright}April 2020\end{flushright}
+  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
+    \begin{flushright}Jul. 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
 \end{large}
-* recieved award from Political Science department to fund a panel survey (n=1000).
-* estimated linear regression and multinomial logit in observational study context and wrote paper \href{https://alexbass.me/projects/star_wars_capstone/Capstone%20Project.pdf}{[here]} on findings.
+\vspace{-0.16cm}
+* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
+
+<!-- Research Projects : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
+
+<!-- Research Projects : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
+
 
 
 
@@ -189,7 +228,5 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
   \vspace{3pt}
   \hrule
 \end{large}
-\vspace{-0.16cm}
-**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
-**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
+**Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, SPSS, Statistics
 
