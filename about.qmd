@@ -21,7 +21,6 @@ format:
 ---
 
 ## Chen Yuxuan
-
 Phone: 86-13957992893  Email: cyxnbnb@bu.edu
 Address:  5 Walbridge St. Apt 12, Boston, MA, United State
           Zhejiang University of Technology, Xihu District, Hangzhou, Zhejiang, China
@@ -70,7 +69,7 @@ Title: Finance Department Assistant
 •	Participated in the financial due diligence and investment decision-making meetings of System Technology (Shenzhen) Co., Ltd.
 •	Participated in the due diligence report of Jiaxing Wuyuefeng-Dingfeng Shangshaoyuan Fund.
 •	Participated in the due diligence and issuance of investment proposals for Ivy Capital's Zhejiang Science and Innovation Master Fund.
-•	Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership);
+•	Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership).
 •	Participated in financial due diligence appointments for the Orient Renaissance Capital.
 •	Participated in financial due diligence interviews with Getech Communications (Zhejiang) Co.
 •	Assisted in building business valuation models based on DCF (Discounted Cash Flow).
@@ -112,6 +111,5 @@ Title: Team Leader
 
 ## Skills
 
-•	English Proficiency: CET4, CET6
 •	Technical Skills: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, SPSS, Statistics
 
