@@ -89,14 +89,6 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
 \vspace{1.5pt}
 
 
-<!-- SKILLS -->
-\begin{large}{\bf SKILLS}
-  \vspace{3pt}
-  \hrule
-\end{large}
-\vspace{-0.16cm}
-**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
-**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
 
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -104,97 +96,65 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Dynata}}\end{flushleft}
-    \begin{flushright}Aug 2022-Present\end{flushright}
+  \parbox{1.4\linewidth}{\bf Hangzhou Qianhe Mingde Equity Investment Co., Ltd.}
+    \begin{flushright}Aug. 2021 - Sep. 2021\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Scientist, Marketing}\end{flushleft}
-    \begin{flushright}Herndon, VA\end{flushright}\end
+    \begin{flushleft}\textit{Investment Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Delivered 30+ advanced analytical studies (MTA, drivers analysis, diff-in-diff) to high profile clients including 15+ to marketing teams at **Google and Meta**
-* Built diff-in-diff and multi-touch attribution model codebase in Python(OOP) for Ad Data Science Team. This codebase has **saved 100+ hours and brought over in $2 million in revenue to date**
+* Collected, researched, and organized information on 206 companies listed on NASDAQ and NYSE through IPOs from 2015 to 2021. This information included prospectuses, brokerage firms, IPO opening and closing prices, market capitalization, audit companies, and legal advisors. This data was used as a resource for planning IPOs for other companies and for industry research reports.
+* Managed risk control for four futures including China Securities and Continental Futures. Monitored position directions, opening prices, and real-time profits and used trend analysis and chart analysis for risk monitoring. Provided information on futures trading and prepared closing and transaction reports.
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://archive.org/}{Internet Archive}}\end{flushleft}
-    \begin{flushright}Nov 2022-May 2023\end{flushright}
+    \parbox{1.4\linewidth}{\bf State Taxation Bureau Jindong District, Jinhua City}
+    \begin{flushright}Dec. 2021 - Jan. 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Intern, Data Science}\end
-    {flushleft}\begin{flushright}Washington, D.C.\end
-    {flushright}
-  \end{multicols}
+    \begin{flushleft}\textit{Tax Service Officer and Office Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Solved entity resolution problem with Gradient Boosted Trees** \href{https://alexbass.me/projects/internet_archive/}{[here]} linking sparse wikipedia references to Internet Archive Database References
-* Implemented model in Python \href{https://github.com/acbass49/wiki2ia}{[here]} which, given a wikipedia reference, will return a match in the Internet Archive Database along with a probability of matching.
+* Organized, coordinated, and guided tax services for various tax types and processes. Assisted taxpayers with tax registration, tax declaration, invoice issuance, verification, certification, and other daily tax-related tasks.
+* Handled logistics affairs, document processing, drafting documents, work supervision, and publicity and reporting tasks.
+* Used the Golden Tax Phase III system and Zhejiang Province Electronic Taxation Bureau for tax data verification, industry tax information collection, and data analysis.
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://morningconsult.com/}{Morning Consult}}\end{flushleft}
-    \begin{flushright}Nov 2021-Aug 2022\end{flushright}
+    \parbox{1.4\linewidth}{\bf Zhejiang Jinkong Investment Management Co., Ltd.}
+    \begin{flushright}Apr. 2024 - Jul. 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Senior Data Analyst}\end
-    {flushleft}\begin{flushright}Washington, D.C.\end
-    {flushright}
-  \end{multicols}
+    \begin{flushleft}\textit{Finance Department Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Developed and automated wave-over-wave statistical tests on time series data** in 17 tracker surveys of 5 countries
-* Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists)
-* Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
+* Participated in the financial due diligence and investment decision-making meetings of System Technology (Shenzhen) Co., Ltd.
+* Participated in the due diligence report of Jiaxing Wuyuefeng-Dingfeng Shangshaoyuan Fund.
+* Participated in the due diligence and issuance of investment proposals for Ivy Capital's Zhejiang Science and Innovation Master Fund.
+* Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership).
+* Participated in financial due diligence appointments for the Orient Renaissance Capital.
+* Participated in financial due diligence interviews with Getech Communications (Zhejiang) Co.
+* Assisted in building business valuation models based on DCF (Discounted Cash Flow).
 
 \vspace{7pt}
 
-<!-- EXPERIENCE : 4TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://echeloninsights.com/}{Echelon Insights}}\end{flushleft}
-    \begin{flushright}April 2020-Nov 2021\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Research Analyst}\end{flushleft}
-    \begin{flushright}Alexandria, VA\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Led in modeling projects **predicting election turnout for entire U.S. in 2022**, phone response rates, etc.
-* Wrangled, cleaned, weighted, or made presentations for 60+ survey datasets with R, SQL, and AWS
-* Using R Shiny, built a codeless-crosstab tool for company’s research team
 
-\vspace{7pt}
 
-<!-- EXPERIENCE : 5TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{http://csed.byu.edu/}{Center for Elections and Democracy}}\end{flushleft}
-    \begin{flushright}Dec 2018-April 2020\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Research Fellow}\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Designed and executed multiple survey experiments in original research projects
-* Mentored 60+ students in solving econometrics problems in weekly office hours
-* Visualized data using R creating 50+ informative figures for AFS official report \href{https://csed.byu.edu/0000017e-2611-d5d4-a57f-277126ef0001/american-family-survey-2019-report-pdf}{[here]}, news outlets, and professor’s projects
-
-\vspace{7pt}
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
@@ -221,3 +181,15 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
 \end{large}
 * recieved award from Political Science department to fund a panel survey (n=1000).
 * estimated linear regression and multinomial logit in observational study context and wrote paper \href{https://alexbass.me/projects/star_wars_capstone/Capstone%20Project.pdf}{[here]} on findings.
+
+
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
+**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
+
