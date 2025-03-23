@@ -20,7 +20,7 @@ format:
     css: styles.css
 ---
 
-## Chen Yuxuan
+## Yuxuan Chen 
 <hr style="height:3px; border:none; background-color:black;">
 Phone: 86-13957992893  &nbsp;&nbsp;&nbsp;&nbsp; +1 8572564713<br>
 Email: cyxnbnb@bu.edu &nbsp;&nbsp;&nbsp;&nbsp; cyxnbnbnb@gmail.com <br>
