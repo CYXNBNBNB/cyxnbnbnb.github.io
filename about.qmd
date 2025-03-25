@@ -38,7 +38,7 @@ Relevant Courses: Mathematical Analysis, Advanced Algebra, Analytical Geometry, 
 
 **Columbia University**                                         July 2023 – August 2023<br>
 Value Investment Techniques: Advanced Application and Exploration Research of Valuation Models in CFA Certification<br>  
-*	Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.
+*	Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.<br>
 *	Utilized Pearson correlation coefficients to discuss the correlations among the data and employed function fitting to generate graphs, exploring the impact of various indicators on valuation and their application within valuation models.
 
 
