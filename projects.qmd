@@ -1,5 +1,12 @@
 ---
 title: "Project"
+author:
+  - name: Yuxuan Chen
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
 date-modified: today
 date-format: long
 format:
@@ -13,4 +20,4 @@ format:
     css: styles.css
 ---
 
-# Business Running Case: Evaluating Personal Job Market Prospects in 2024
+## Business Running Case: Evaluating Personal Job Market Prospects in 2024
