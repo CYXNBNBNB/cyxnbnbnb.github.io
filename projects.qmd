@@ -13,4 +13,4 @@ format:
     css: styles.css
 ---
 
-# References
+# Business Running Case: Evaluating Personal Job Market Prospects in 2024
