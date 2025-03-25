@@ -3,8 +3,7 @@ format:
   html:
     theme: cosmo
     toc: true
-    # toc-depth: 2
-    css: styles.css  # 样式文件
+    css: styles.css
 ---
 
 # 📬 Get in Touch
