@@ -16,6 +16,8 @@ website:
             text: Résumé Download
       - href: documents.qmd
         text: Documents
+      - href: contact.qmd
+        text: Contact Me
 
 
     tools:

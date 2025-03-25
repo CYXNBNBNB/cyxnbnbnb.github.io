@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    theme: cosmo
+    toc: true
+    # toc-depth: 2
+    css: styles.css  # 样式文件
+---
+
+# 📬 Get in Touch
+
+Feel free to reach out for opportunities, collaborations, or questions!
+
+- 📧 Email: [qiminshen1113@gmail.com](mailto:cyxnbnb@bu.edu)   
+- 💻 GitHub: [github.com/Qimin-Shen](https://github.com/CYXNBNBNB)
+
+---
+
+## 📩 Send Me a Message
+
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <!-- 防垃圾邮件 -->
+  <input type="hidden" name="form-name" value="contact" />
+  <p hidden>
+    <label>Don’t fill this out: <input name="bot-field" /></label>
+  </p>
+
+  <label for="name">Name</label><br>
+  <input type="text" id="name" name="name" placeholder="Your name" required><br><br>
+
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="email" placeholder="Your email" required><br><br>
+
+  <label for="message">Message</label><br>
+  <textarea id="message" name="message" rows="6" placeholder="Your message" required></textarea><br><br>
+
+  <button type="submit">Send</button>
+</form>
+
+<!-- 自定义样式 -->
+<style>
+  form {
+    max-width: 600px;         /* 表单整体宽度 */
+    margin: 0 auto;            /* 居中 */
+    font-family: Arial, sans-serif;
+  }
+
+  label {
+    font-weight: bold;
+    margin-bottom: 8px;
+    display: block;
+  }
+
+  input, textarea {
+    width: 100%;               /* 输入框和文本域宽度100% */
+    padding: 12px;              /* 内边距 */
+    font-size: 16px;            /* 字体大小 */
+    border: 1px solid #ccc;     /* 边框 */
+    border-radius: 6px;         /* 圆角 */
+    box-sizing: border-box;     /* 确保内边距不影响宽度 */
+    margin-bottom: 15px;        /* 底部间距 */
+  }
+
+  input:focus, textarea:focus {
+    outline: none;
+    border-color: #007BFF;      /* 聚焦时边框颜色 */
+    box-shadow: 0 0 8px #007BFF;
+  }
+
+  button {
+    background-color: #007BFF;  /* 按钮背景色 */
+    color: #fff;                /* 文字颜色 */
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 100%;                /* 按钮宽度 */
+  }
+
+  button:hover {
+    background-color: #0056b3;  /* 悬停时颜色 */
+  }
+</style>
