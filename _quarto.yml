@@ -14,8 +14,8 @@ website:
             text: Profile 
           - href: resume.qmd
             text: Résumé Download
-      - href: documents.qmd
-        text: Documents
+      - href: projects.qmd
+        text: Prjects
       - href: contact.qmd
         text: Contact Me
 

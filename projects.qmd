@@ -1,6 +1,5 @@
 ---
-title: "Listing Example"
-listing: default
+title: "Project"
 date-modified: today
 date-format: long
 format:
