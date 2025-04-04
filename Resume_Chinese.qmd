@@ -32,7 +32,7 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}电子邮箱: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
 联系方式: +1 8572564713 ∙ +86 13957992893 \\
-Link: \href{https://github.com/CYXNBNBNB}{Github} 
+个人网站: \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} 
 \end{center}
 \vspace{15pt}
 
@@ -83,7 +83,7 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Bachelor of Arts: Political Science\end{flushleft}
+    \begin{flushleft}MS in Applied Business Analytics\end{flushleft}
   \end{multicols}
   \vspace{-0.20cm}
 \end{large}
@@ -227,10 +227,20 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
 
 
 
-<!-- SKILLS -->
-\begin{large}{\bf SKILLS}
+<!-- AWARDS -->
+\begin{large}{\bf Awards}
+  \vspace{3pt}
+  \hrule
+\end{large}
+* Third Prize in Zhejiang University of Technology Mathematical Modeling Competition in May 2022
+* Excellent Prize in the 10th Zhejiang Province University Student Advertising Creative Competition in July 2022
+* Excellent Prize in the 14th National University Student Advertising Art Competition in July 2022
+
+
+
+<!-- Skills -->
+\begin{large}{\bf Skills}
   \vspace{3pt}
   \hrule
 \end{large}
 **Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
-
