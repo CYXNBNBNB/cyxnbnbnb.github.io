@@ -38,57 +38,70 @@ format:
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
-  {\bf EDUCATION}
+  {\bf 教育经历}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Zhejiang University of Technology}\end{flushleft}
-    \begin{flushright}Sep. 2020 - Jun. 2024\end{flushright}
+    \begin{flushleft}{\bf 浙江工业大学}\end{flushleft}
+    \begin{flushright}2020.9 - 2024.6\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}BS in Mathematics and Applied Mathematics\end{flushleft}
+    \begin{flushleft}理学学士\hspace{1cm}数学与应用数学\end{flushleft}
   \end{multicols}
   \vspace{-0.20cm}
 \end{large}
-* **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
+**相关课程**: 数学分析、高等代数、空间解析几何、常微分方程、随机过程、近世代数、实变函数、运筹学、最优化方法、时间序列分析、概率论与数理统计、复变函数与积分变换、数值计算、数据分析与R语言、数学模型、金融数学<br>
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf * 浙江工业大学数学建模竞赛三等奖}\end{flushleft}
+    \begin{flushright}2022.5\end{flushright}
+  \end{multicols}
+    \begin{multicols}{2}
+    \begin{flushleft}{\bf * 浙江省第十届大学生广告创意竞赛优秀奖}\end{flushleft}
+    \begin{flushright}2022.7\end{flushright}
+  \end{multicols}
+    \begin{multicols}{2}
+    \begin{flushleft}{\bf * 第14届全国大学生广告艺术大赛优秀奖}\end{flushleft}
+    \begin{flushright}2022.7\end{flushright}
+  \end{multicols}
+
 
 \vspace{0.2cm}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Columbia University}\end{flushleft}
-    \begin{flushright}Jul. 2023 – Aug. 2023\end{flushright}
+    \begin{flushleft}{\bf 哥伦比亚大学}\end{flushleft}
+    \begin{flushright}2023.7 – 2023.8\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\textbf{Value Investment Techniques}: Advanced Application and Exploration Research of Valuation Models in CFA Certification}
+    \parbox{1.4\linewidth}{\textbf{Value Investment Techniques}: 价值投资技术:CFA证书中高级估值模型应用及探索研究}
   \end{multicols}
   \vspace{-0.10cm}
 \end{large}
 
 \vspace{1.5pt}
 
-* Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.
-* Utilized Pearson correlation coefficients to discuss the correlations among the data and employed function fitting to generate graphs, exploring the impact of various indicators on valuation and their application within valuation models.
+* 参与关于价值投资技术及其相关估值模型的应用及探索研究。主要针对四支美股：微软 (MSFT)、苹果 (AAPL)、辉瑞 (PFE)和 默克 (MRK) ，对他们在2019至2022年间息税前利润/总营收、年回报率与每股收益(EPS)等数据进行分析处理；
+* 使用Pearson相关系数讨论各项数据的相关性，并使用函数拟合绘制图像，探究各个指标对估值的影响以及在估值模型中的应用。
 
 \vspace{0.2cm}
 
 <!-- EDUCATION: 3ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Boston University}\end{flushleft}
-    \begin{flushright}Sep. 2024 - Aug. 2025\end{flushright}
+    \begin{flushleft}{\bf 波士顿大学}\end{flushleft}
+    \begin{flushright}2024.9 - 2025.8\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}MS in Applied Business Analytics\end{flushleft}
+    \begin{flushleft}硕士\hspace{1cm}应用商业分析\end{flushleft}
   \end{multicols}
   \vspace{-0.20cm}
 \end{large}
 
-* **Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
+**相关课程**: 商业分析基础、运营管理、金融概念、定量与定性决策、企业风险分析、营销分析、商业网络分析、商业分析数据挖掘、投资分析与投资组合管理、金融定量方法
 
 \vspace{1.5pt}
 
@@ -96,64 +109,64 @@ format:
 
 
 <!-- EXPERIENCE : 1ST BULLET-->
-\begin{large}{\bf EXPERIENCE}
+\begin{large}{\bf 实习经历}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-  \parbox{1.4\linewidth}{\bf Hangzhou Qianhe Mingde Equity Investment Co., Ltd.}
-    \begin{flushright}Aug. 2021 - Sep. 2021\end{flushright}
+  \parbox{1.4\linewidth}{\bf 杭州谦和明德股权投资有限公司}
+    \begin{flushright}2021.8 - 2021.9\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Investment Assistant}\end{flushleft}
+    \begin{flushleft}\textit{投资助理}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Collected, researched, and organized information on 206 companies listed on NASDAQ and NYSE through IPOs from 2015 to 2021. This information included prospectuses, brokerage firms, IPO opening and closing prices, market capitalization, audit companies, and legal advisors. This data was used as a resource for planning IPOs for other companies and for industry research reports.
-* Managed risk control for four futures including China Securities and Continental Futures. Monitored position directions, opening prices, and real-time profits and used trend analysis and chart analysis for risk monitoring. Provided information on futures trading and prepared closing and transaction reports.
+* 协助调研整理2015年至2021年在纳斯达克和纽交所IPO上市企业共206家的招股说明书、券商、上市当天首发价格和收盘价格、市值、审计公司及法律顾问等相关信息，作为公司的信息资源，为其他企业策划IPO上市时寻找相似案例作为借鉴，并作为行业研究报告成为投资方向的分析资源，寻找行业赛道头部企业进行投资；
+* 负责中信建投期货和大陆期货共四支期货的交易风控工作，观察持仓方向、开仓均价以及逐笔浮盈等信息，通过观测走势曲线和图表分析进行风险监测，提供期货交易的信息，使用文华财经根据交易信息进行期货买卖操作，并汇总总浮盈比例及预设风险敞口等制作收盘报告和交易报表。
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\bf State Taxation Bureau Jindong District, Jinhua City}
-    \begin{flushright}Dec. 2021 - Jan. 2022\end{flushright}
+    \parbox{1.4\linewidth}{\bf 国家税务总局金华市金东区税务局}
+    \begin{flushright}2021.12 - 2022.1\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Tax Service Officer and Office Assistant}\end{flushleft}
+    \begin{flushleft}\textit{纳税服务岗、办公室综合岗}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Organized, coordinated, and guided tax services for various tax types and processes. Assisted taxpayers with tax registration, tax declaration, invoice issuance, verification, certification, and other daily tax-related tasks.
-* Handled logistics affairs, document processing, drafting documents, work supervision, and publicity and reporting tasks.
-* Used the Golden Tax Phase III system and Zhejiang Province Electronic Taxation Bureau for tax data verification, industry tax information collection, and data analysis.
+* 组织、协调和指导各税种、各环节的纳税服务工作，指导、辅助纳税人办理税务登记、申报纳税、发票领用、验旧、认证代开等日常涉税业务；
+* 负责后勤事务，公文处理，文件起草，工作督办，宣传报道等工作；
+* 使用金税三期与浙江省电子税务局，核查纳税人税务收取情况及行业税收信息，对税务数据进行数据分析收集并做整理汇总。
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\bf Zhejiang Jinkong Investment Management Co., Ltd.}
-    \begin{flushright}Apr. 2024 - Jul. 2024\end{flushright}
+    \parbox{1.4\linewidth}{\bf 浙江金控投资管理有限公司}
+    \begin{flushright}2024.4 - 2024.7\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Finance Department Assistant}\end{flushleft}
+    \begin{flushleft}\textit{财务部助理}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Participated in the financial due diligence and investment decision-making meetings of System Technology (Shenzhen) Co., Ltd.
-* Participated in the due diligence report of Jiaxing Wuyuefeng-Dingfeng Shangshaoyuan Fund.
-* Participated in the due diligence and issuance of investment proposals for Ivy Capital's Zhejiang Science and Innovation Master Fund.
-* Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership).
-* Participated in financial due diligence appointments for the Orient Renaissance Capital.
-* Participated in financial due diligence interviews with Getech Communications (Zhejiang) Co.
-* Assisted in building business valuation models based on DCF (Discounted Cash Flow).
+* 参与深圳西斯特科技有限公司财务尽职调查与投资决策会议；
+* 参与嘉兴武岳峰-鼎峰上绍院基金尽职调查报告；
+* 参与常春藤基金浙江科创母基金尽职调查及出具投资建议书工作；
+* 参与力合基金浙江科创母基金尽职调查及出具浙江省科创母基金参股广西力合中恒医药投资合伙企业（有限合伙）之投资建议书；
+* 参与东方嘉富基金财务尽职调查约访；
+* 参与格创通信（浙江）有限公司财务尽职调查访谈；
+* 协助建立基于DCF（Discounted Cash Flow，现金流折现）的企业估值模型。
 
 \vspace{7pt}
 
