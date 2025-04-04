@@ -17,6 +17,7 @@ format:
         \usepackage{lipsum}
         \usepackage{hyperref}
         \usepackage{libertine}
+        \usepackage{ctex}         % 支持中文
         \pagestyle{empty}
         \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
         \setlength{\columnsep}{3em}
@@ -26,12 +27,11 @@ format:
   
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf Yuxuan Chen}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf 陈宇轩}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}Email: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
-Phone: +1 8572564713 ∙ +86 13957992893 \\
-Address:  Apt 12, 5 Walbridge St., Boston, MA \\
+\begin{center}电子邮箱: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
+联系方式: +1 8572564713 ∙ +86 13957992893 \\
 Link: \href{https://github.com/CYXNBNBNB}{Github} 
 \end{center}
 \vspace{15pt}
@@ -83,7 +83,7 @@ Link: \href{https://github.com/CYXNBNBNB}{Github}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}MS in Applied Business Analytics\end{flushleft}
+    \begin{flushleft}Bachelor of Arts: Political Science\end{flushleft}
   \end{multicols}
   \vspace{-0.20cm}
 \end{large}
