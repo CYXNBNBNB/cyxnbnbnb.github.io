@@ -79,7 +79,7 @@ format:
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Boston University}\end{flushleft}
-    \begin{flushright}Sep. 2024 - Jun. 2025\end{flushright}
+    \begin{flushright}Sep. 2024 - Aug. 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
