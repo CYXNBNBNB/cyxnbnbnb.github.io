@@ -32,7 +32,8 @@ format:
 \begin{center}Email: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
 Phone: +1 8572564713 ∙ +86 13957992893 \\
 Address:  Apt 12, 5 Walbridge St., Boston, MA \\
-Link: \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} 
+Link: \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
+Home Page: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 \end{center}
 \vspace{15pt}
 
