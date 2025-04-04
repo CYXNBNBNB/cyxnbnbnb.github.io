@@ -174,86 +174,95 @@ format:
 
 
 <!--Research Projects : 1ST BULLET -->
-\begin{large}{\bf Research Projects}
+\begin{large}{\bf 课题研究}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
-    \begin{flushright}Jul. 2022\end{flushright}
+  \parbox{1.6\linewidth}{\bf 利用回归分析预测并求解常州市的医疗和养老保障问题}
+    \begin{flushright}2022.7\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
+* 通过对医疗和养老保障两个民生问题的基本方面进行调查研究，由常州市人均可支配收入、老龄人口占比、养老资源配置等情况与国际先进标准通过线性拟合，比较其拟合优度预测并求解常州市的医疗和养老保障问题并以常州市为例，结合对其医疗和养老保障需求的预测，探讨如何合理配置城市资源，促使其达到国际先进医疗养老标准，为人民群众提供高质量的医疗养老服务，建设更完善的社会保障服务体系。
+* 由于各自变量之间并无明显相关性，因此本文使用多元回归分析，以简单的一元线性回归方程为基础多元分析求解，通过拟合线性函数计算投入资金作为量化指标建立模型并使用Matlab进行程序实现。
 
 \vspace{7pt}
 
 <!-- Research Projects : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
-    \begin{flushright}Jul. 2022\end{flushright}
+  \parbox{1.6\linewidth}{\bf 基于多元线性回归的矿石加工质量控制问题研究}
+    \begin{flushright}2022.7\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
+* 针对各企业矿石加工厂所具有的资源回收率低、产品质量不稳定等弊病进行优化，通过对矿石加工质量的提高，直接或间接地节约不可再生的矿物资源以及加工所需要的能源，从而推动矿石加工行业的发展。
+* 通过构建质量指标预测模型、系统温度测算模型和产品合格率分析模型对温度同产品质量的关系进行进一步探究，以深入把握两者关系，实现矿石加工质量的提高。
 
 <!-- Research Projects : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
-    \begin{flushright}Aug. 2022\end{flushright}
+  \parbox{1.6\linewidth}{\bf 基于贪心算法思想的分拣系统优化问题研究}
+    \begin{flushright}2022.8\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
+* 以订单分批、货品摆放和任务指派等三方面为着眼点，通过构建合理的分拣系统实现分拣环节效率的提高，从而进一步提高配送中心的整体性能，增强电商公司的整体市场竞争力。
+* 基于订单相关度矩阵，结合利用 0-1 规划方法完成订单分批模型的建立，进而根据该模型所得部分限制条件，计划根据贪心算法的基本思想完成订单分批算法的设计。贪心算法的核心思想是通过对一系列局部最优解的选择最终得到对所求问题的整体最优解，利用该思想的特性，避免了遍历得到最优解而耗费大量计算时间的情况，优化了时间复杂度，提高了整体算法的实用性。
 
 <!-- Research Projects : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
-    \begin{flushright}Aug. 2022\end{flushright}
+  \parbox{1.6\linewidth}{\bf 基于多目标规划模型的移动通信网络站址规划和区域聚类问题}
+    \begin{flushright}2022.8\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
+* 对新建基站站址及新建基站类型做进一步规划，通过构建合理的基站规划方案，兼顾弱覆盖区域问题的解决和建设成本的优化，进一步扩大区域通信网络的覆盖程度，满足人民日益增长的对先进通信技术享受的需求。
+* 引入 0-1 规划对各坐标点的基站建设情况进行描述，结合题目需求完成以成本最小化和新建基站覆盖业务量极大化为目标构建多目标规划模型，根据贪心算法思想，设计算法以实现模型的求解。贪心算法思想往往指在对问题求解时，总是做出当前看来是最好的选择，其核心在于不从整体最优上加以考虑，而是做出某种意义上的局部最优解。本题利用该思想特性，避免了通过遍历优化基站位置规划而耗费大量计算时间的情况，降低了时间复杂度，提高了求解方法的实用性。
 
-
-
-
-<!-- AWARDS -->
-\begin{large}{\bf Awards}
-  \vspace{3pt}
-  \hrule
+<!-- Research Projects : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf TBL语言基于斜率趋势预测的改进双均线交易策略}
+    \begin{flushright}2022.10\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{算法设计}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
 \end{large}
-* Third Prize in Zhejiang University of Technology Mathematical Modeling Competition in May 2022
-* Excellent Prize in the 10th Zhejiang Province University Student Advertising Creative Competition in July 2022
-* Excellent Prize in the 14th National University Student Advertising Art Competition in July 2022
+\vspace{-0.16cm}
+* 在使用TBQUANT进行期货交易时，会运用到许多交易策略，其中最经典的一个交易策略就是双均线策略，常用于预测资产价格的趋势和交易信号。尽管双均线策略在一些情况下被广泛应用，但它也存在一些缺点需要考虑，针对于双均线策略固有的滞后性与假信号干扰，采取了基于斜率趋势的改进交易判断方法。
+* 本策略针对解决因双均线策略滞后性产生的收益减少问题进行优化，根据Lagrange中值定理，在上穿与下穿过程中，必定会出现长线与短线斜率相同的节点而这个节点基本位于峰值与谷值的左邻域内，既然无法准确地在峰值或谷值进行交易，在检测到两线斜率相等后，由于交易的滞后性，需要在后一个节点进行平仓交易，此节点极有可能就是峰值或谷值所在，即可相应减少滞后性带来的收益下降。
 
 
 
 <!-- Skills -->
-\begin{large}{\bf Skills}
+\begin{large}{\bf 专业技能}
   \vspace{3pt}
   \hrule
 \end{large}
-**Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
+* **英语水平**: CET4、CET6、TOEFL
+* **专业技能**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
