@@ -48,7 +48,7 @@ format:
         \end{flushleft}
     \end{minipage}
     &
-    \raisebox{-0.8\height}{\includegraphics[width=\linewidth,keepaspectratio]{images/myphoto.jpg}}
+    \raisebox{-0.8\height}{\includegraphics[width=0.75\linewidth,keepaspectratio]{images/1_inch.jpg}} % height控制图片高度  width控制图片大小
 \end{tabular}
 \vspace*{2mm}
 
