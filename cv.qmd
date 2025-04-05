@@ -1,0 +1,264 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+    number-sections: False # 取消自动编号
+
+# quarto render resume.qmd --to pdf --output-dir Documents
+  
+---
+<!-- TITLE -->
+\begin{tabular}{@{} m{0.72\textwidth} m{0.25\textwidth} @{}}
+    \begin{minipage}[t]{0.98\linewidth}
+        \begin{flushleft}
+            {\huge\bfseries Yuxuan Chen} \\[4mm]
+            
+            \begin{tabular}{@{} l @{\hspace{3mm}} l @{}} 
+                \textbf{Email:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
+                                   & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\[1mm]
+                
+                \textbf{Phone:}    & +1 (857) 256-4713 \\
+                                   & +86 139-5799-2893 \\[0.5mm]
+                
+                \textbf{Address:}  & Apt 12, 5 Walbridge St. Boston, MA 02115 \\[0.5mm]
+                
+                \textbf{Link:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
+                
+                \textbf{Home Page:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
+            \end{tabular}
+            
+            \vspace*{2mm}
+        \end{flushleft}
+    \end{minipage}
+    &
+    \raisebox{-0.7\height}{\includegraphics[width=\linewidth,keepaspectratio]{images/myphoto.jpg}}
+\end{tabular}
+\vspace*{2mm}
+
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Zhejiang University of Technology}\end{flushleft}
+    \begin{flushright}Sep. 2020 - Jun. 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}BS in Mathematics and Applied Mathematics\end{flushleft}
+  \end{multicols}
+  \vspace{-0.20cm}
+\end{large}
+* **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
+
+\vspace{0.2cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Columbia University}\end{flushleft}
+    \begin{flushright}Jul. 2023 – Aug. 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\textbf{Value Investment Techniques}: Advanced Application and Exploration Research of Valuation Models in CFA Certification}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+\vspace{1.5pt}
+
+* Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.
+* Utilized Pearson correlation coefficients to discuss the correlations among the data and employed function fitting to generate graphs, exploring the impact of various indicators on valuation and their application within valuation models.
+
+\vspace{0.2cm}
+
+<!-- EDUCATION: 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Boston University}\end{flushleft}
+    \begin{flushright}Sep. 2024 - Aug. 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}MS in Applied Business Analytics\end{flushleft}
+  \end{multicols}
+  \vspace{-0.20cm}
+\end{large}
+
+* **Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
+
+\vspace{1.5pt}
+
+
+
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \parbox{1.4\linewidth}{\bf Hangzhou Qianhe Mingde Equity Investment Co., Ltd.}
+    \begin{flushright}Aug. 2021 - Sep. 2021\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Investment Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Collected, researched, and organized information on 206 companies listed on NASDAQ and NYSE through IPOs from 2015 to 2021. This information included prospectuses, brokerage firms, IPO opening and closing prices, market capitalization, audit companies, and legal advisors. This data was used as a resource for planning IPOs for other companies and for industry research reports.
+* Managed risk control for four futures including China Securities and Continental Futures. Monitored position directions, opening prices, and real-time profits and used trend analysis and chart analysis for risk monitoring. Provided information on futures trading and prepared closing and transaction reports.
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\bf State Taxation Bureau Jindong District, Jinhua City}
+    \begin{flushright}Dec. 2021 - Jan. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Tax Service Officer and Office Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Organized, coordinated, and guided tax services for various tax types and processes. Assisted taxpayers with tax registration, tax declaration, invoice issuance, verification, certification, and other daily tax-related tasks.
+* Handled logistics affairs, document processing, drafting documents, work supervision, and publicity and reporting tasks.
+* Used the Golden Tax Phase III system and Zhejiang Province Electronic Taxation Bureau for tax data verification, industry tax information collection, and data analysis.
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\bf Zhejiang Jinkong Investment Management Co., Ltd.}
+    \begin{flushright}Apr. 2024 - Jul. 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Finance Department Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Participated in the financial due diligence and investment decision-making meetings of System Technology (Shenzhen) Co., Ltd.
+* Participated in the due diligence report of Jiaxing Wuyuefeng-Dingfeng Shangshaoyuan Fund.
+* Participated in the due diligence and issuance of investment proposals for Ivy Capital's Zhejiang Science and Innovation Master Fund.
+* Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership).
+* Participated in financial due diligence appointments for the Orient Renaissance Capital.
+* Participated in financial due diligence interviews with Getech Communications (Zhejiang) Co.
+* Assisted in building business valuation models based on DCF (Discounted Cash Flow).
+
+\vspace{7pt}
+
+
+
+
+<!--Research Projects : 1ST BULLET -->
+\begin{large}{\bf Research Projects}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
+    \begin{flushright}Jul. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
+
+\vspace{7pt}
+
+<!-- Research Projects : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
+    \begin{flushright}Jul. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
+
+<!-- Research Projects : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
+
+<!-- Research Projects : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
+
+
+
+
+<!-- AWARDS -->
+\begin{large}{\bf Awards}
+  \vspace{3pt}
+  \hrule
+\end{large}
+* Third Prize in Zhejiang University of Technology Mathematical Modeling Competition in May 2022
+* Excellent Prize in the 10th Zhejiang Province University Student Advertising Creative Competition in July 2022
+* Excellent Prize in the 14th National University Student Advertising Art Competition in July 2022
+
+
+
+<!-- Skills -->
+\begin{large}{\bf Skills}
+  \vspace{3pt}
+  \hrule
+\end{large}
+**Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics

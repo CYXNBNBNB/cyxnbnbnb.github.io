@@ -1,0 +1,314 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \usepackage{ctex}         % 支持中文
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+    number-sections: False # 取消自动编号
+
+# quarto render resume.qmd --to pdf --output-dir Documents
+  
+---
+<!-- TITLE -->
+\begin{tabular}{@{} m{0.72\textwidth} m{0.25\textwidth} @{}}
+    \begin{minipage}[t]{0.98\linewidth}
+        \begin{flushleft}
+            {\huge\bfseries 陈宇轩} \\[4mm]
+            
+            \begin{tabular}{@{} l @{\hspace{3mm}} l @{}} 
+                \textbf{电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
+                                   & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\
+                
+                \textbf{联系方式:}    & +1 (857) 256-4713 \\
+                                   & +86 139-5799-2893 \\
+                
+                \textbf{个人网站:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
+                
+                \textbf{Github主页:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
+            \end{tabular}
+            
+            \vspace*{2mm}
+        \end{flushleft}
+    \end{minipage}
+    &
+    \raisebox{-0.8\height}{\includegraphics[width=\linewidth,keepaspectratio]{images/myphoto.jpg}}
+\end{tabular}
+\vspace*{2mm}
+
+
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf 教育经历}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf 浙江工业大学}\end{flushleft}
+    \begin{flushright}2020.9 - 2024.6\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}理学学士\hspace{1cm}数学与应用数学\end{flushleft}
+  \end{multicols}
+  \vspace{-0.20cm}
+\end{large}
+**相关课程**: 数学分析、高等代数、空间解析几何、常微分方程、随机过程、近世代数、实变函数、运筹学、最优化方法、时间序列分析、概率论与数理统计、复变函数与积分变换、数值计算、数据分析与R语言、数学模型、金融数学<br>
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf * 浙江工业大学数学建模竞赛三等奖}\end{flushleft}
+    \begin{flushright}2022.5\end{flushright}
+  \end{multicols}
+    \begin{multicols}{2}
+    \begin{flushleft}{\bf * 浙江省第十届大学生广告创意竞赛优秀奖}\end{flushleft}
+    \begin{flushright}2022.7\end{flushright}
+  \end{multicols}
+    \begin{multicols}{2}
+    \begin{flushleft}{\bf * 第14届全国大学生广告艺术大赛优秀奖}\end{flushleft}
+    \begin{flushright}2022.7\end{flushright}
+  \end{multicols}
+
+
+\vspace{0.2cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf 哥伦比亚大学}\end{flushleft}
+    \begin{flushright}2023.7 – 2023.8\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\textbf{Value Investment Techniques}: 价值投资技术:CFA证书中高级估值模型应用及探索研究}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+\vspace{1.5pt}
+
+* 参与关于价值投资技术及其相关估值模型的应用及探索研究。主要针对四支美股：微软 (MSFT)、苹果 (AAPL)、辉瑞 (PFE)和 默克 (MRK) ，对他们在2019至2022年间息税前利润/总营收、年回报率与每股收益(EPS)等数据进行分析处理；
+* 使用Pearson相关系数讨论各项数据的相关性，并使用函数拟合绘制图像，探究各个指标对估值的影响以及在估值模型中的应用。
+
+\vspace{0.2cm}
+
+<!-- EDUCATION: 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf 波士顿大学}\end{flushleft}
+    \begin{flushright}2024.9 - 2025.8\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}硕士\hspace{1cm}应用商业分析\end{flushleft}
+  \end{multicols}
+  \vspace{-0.20cm}
+\end{large}
+
+**相关课程**: 商业分析基础、运营管理、金融概念、定量与定性决策、企业风险分析、营销分析、商业网络分析、商业分析数据挖掘、投资分析与投资组合管理、金融定量方法
+
+\vspace{1.5pt}
+
+
+
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf 实习经历}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \parbox{1.4\linewidth}{\bf 杭州谦和明德股权投资有限公司}
+    \begin{flushright}2021.8 - 2021.9\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{投资助理}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 协助调研整理2015年至2021年在纳斯达克和纽交所IPO上市企业共206家的招股说明书、券商、上市当天首发价格和收盘价格、市值、审计公司及法律顾问等相关信息，作为公司的信息资源，为其他企业策划IPO上市时寻找相似案例作为借鉴，并作为行业研究报告成为投资方向的分析资源，寻找行业赛道头部企业进行投资；
+* 负责中信建投期货和大陆期货共四支期货的交易风控工作，观察持仓方向、开仓均价以及逐笔浮盈等信息，通过观测走势曲线和图表分析进行风险监测，提供期货交易的信息，使用文华财经根据交易信息进行期货买卖操作，并汇总总浮盈比例及预设风险敞口等制作收盘报告和交易报表。
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\bf 国家税务总局金华市金东区税务局}
+    \begin{flushright}2021.12 - 2022.1\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{纳税服务岗、办公室综合岗}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 组织、协调和指导各税种、各环节的纳税服务工作，指导、辅助纳税人办理税务登记、申报纳税、发票领用、验旧、认证代开等日常涉税业务；
+* 负责后勤事务，公文处理，文件起草，工作督办，宣传报道等工作；
+* 使用金税三期与浙江省电子税务局，核查纳税人税务收取情况及行业税收信息，对税务数据进行数据分析收集并做整理汇总。
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\bf 浙江金控投资管理有限公司}
+    \begin{flushright}2024.4 - 2024.7\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{财务部助理}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 参与深圳西斯特科技有限公司财务尽职调查与投资决策会议；
+* 参与嘉兴武岳峰-鼎峰上绍院基金尽职调查报告；
+* 参与常春藤基金浙江科创母基金尽职调查及出具投资建议书工作；
+* 参与力合基金浙江科创母基金尽职调查及出具浙江省科创母基金参股广西力合中恒医药投资合伙企业（有限合伙）之投资建议书；
+* 参与东方嘉富基金财务尽职调查约访；
+* 参与格创通信（浙江）有限公司财务尽职调查访谈；
+* 协助建立基于DCF（Discounted Cash Flow，现金流折现）的企业估值模型。
+
+\vspace{7pt}
+
+
+
+
+<!--Research Projects : 1ST BULLET -->
+\begin{large}{\bf 课题研究}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 利用回归分析预测并求解常州市的医疗和养老保障问题}
+    \begin{flushright}2022.7\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 通过对医疗和养老保障两个民生问题的基本方面进行调查研究，由常州市人均可支配收入、老龄人口占比、养老资源配置等情况与国际先进标准通过线性拟合，比较其拟合优度预测并求解常州市的医疗和养老保障问题并以常州市为例，结合对其医疗和养老保障需求的预测，探讨如何合理配置城市资源，促使其达到国际先进医疗养老标准，为人民群众提供高质量的医疗养老服务，建设更完善的社会保障服务体系。
+* 由于各自变量之间并无明显相关性，因此本文使用多元回归分析，以简单的一元线性回归方程为基础多元分析求解，通过拟合线性函数计算投入资金作为量化指标建立模型并使用Matlab进行程序实现。
+
+\vspace{7pt}
+
+<!-- Research Projects : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 基于多元线性回归的矿石加工质量控制问题研究}
+    \begin{flushright}2022.7\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 针对各企业矿石加工厂所具有的资源回收率低、产品质量不稳定等弊病进行优化，通过对矿石加工质量的提高，直接或间接地节约不可再生的矿物资源以及加工所需要的能源，从而推动矿石加工行业的发展。
+* 通过构建质量指标预测模型、系统温度测算模型和产品合格率分析模型对温度同产品质量的关系进行进一步探究，以深入把握两者关系，实现矿石加工质量的提高。
+
+<!-- Research Projects : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 基于贪心算法思想的分拣系统优化问题研究}
+    \begin{flushright}2022.8\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 以订单分批、货品摆放和任务指派等三方面为着眼点，通过构建合理的分拣系统实现分拣环节效率的提高，从而进一步提高配送中心的整体性能，增强电商公司的整体市场竞争力。
+* 基于订单相关度矩阵，结合利用 0-1 规划方法完成订单分批模型的建立，进而根据该模型所得部分限制条件，计划根据贪心算法的基本思想完成订单分批算法的设计。贪心算法的核心思想是通过对一系列局部最优解的选择最终得到对所求问题的整体最优解，利用该思想的特性，避免了遍历得到最优解而耗费大量计算时间的情况，优化了时间复杂度，提高了整体算法的实用性。
+
+<!-- Research Projects : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 基于多目标规划模型的移动通信网络站址规划和区域聚类问题}
+    \begin{flushright}2022.8\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{程序设计}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 对新建基站站址及新建基站类型做进一步规划，通过构建合理的基站规划方案，兼顾弱覆盖区域问题的解决和建设成本的优化，进一步扩大区域通信网络的覆盖程度，满足人民日益增长的对先进通信技术享受的需求。
+* 引入 0-1 规划对各坐标点的基站建设情况进行描述，结合题目需求完成以成本最小化和新建基站覆盖业务量极大化为目标构建多目标规划模型，根据贪心算法思想，设计算法以实现模型的求解。贪心算法思想往往指在对问题求解时，总是做出当前看来是最好的选择，其核心在于不从整体最优上加以考虑，而是做出某种意义上的局部最优解。本题利用该思想特性，避免了通过遍历优化基站位置规划而耗费大量计算时间的情况，降低了时间复杂度，提高了求解方法的实用性。
+
+<!-- Research Projects : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf TBL语言基于斜率趋势预测的改进双均线交易策略}
+    \begin{flushright}2022.10\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{算法设计}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* 在使用TBQUANT进行期货交易时，会运用到许多交易策略，其中最经典的一个交易策略就是双均线策略，常用于预测资产价格的趋势和交易信号。尽管双均线策略在一些情况下被广泛应用，但它也存在一些缺点需要考虑，针对于双均线策略固有的滞后性与假信号干扰，采取了基于斜率趋势的改进交易判断方法。
+* 本策略针对解决因双均线策略滞后性产生的收益减少问题进行优化，根据Lagrange中值定理，在上穿与下穿过程中，必定会出现长线与短线斜率相同的节点而这个节点基本位于峰值与谷值的左邻域内，既然无法准确地在峰值或谷值进行交易，在检测到两线斜率相等后，由于交易的滞后性，需要在后一个节点进行平仓交易，此节点极有可能就是峰值或谷值所在，即可相应减少滞后性带来的收益下降。
+
+
+
+
+<!-- Practical experience  1st-->
+\begin{large}{\bf 实践经历}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 浙江工业大学精弘网络活动部}
+    \begin{flushright}2020.9 - 2021.6\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{flushleft}\textit{干事}\end{flushleft}
+\end{large}
+\vspace{-0.16cm}
+* 负责和多家大中小企业商家接洽合作，举办多场校内活动，在活动的统筹策划宣传、现场控制、物资调配等方面经验丰富，擅长处理突发情况。
+
+<!-- Practical experience  2nd-->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 浙江工业大学星星索大学生艺术团}
+    \begin{flushright}2020.9 - 2023.6\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{flushleft}\textit{团长}\end{flushleft}
+\end{large}
+\vspace{-0.16cm}
+* 作为负责人之一，带领7个台前幕后部门及志愿者，组织协办了二十余场中小型艺术活动以及6场校级大型晚会，涉及到路演、音乐会、元旦晚会、留学生新年晚会以及建党100周年晚会和建校70周年晚会等，获得了学校领导老师和广大同学的喜爱与肯定。
+
+
+<!-- Skills -->
+\begin{large}{\bf 专业技能}
+  \vspace{3pt}
+  \hrule
+\end{large}
+* **英语水平**: CET4、CET6、TOEFL
+* **专业技能**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
