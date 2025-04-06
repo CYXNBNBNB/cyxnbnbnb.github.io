@@ -32,17 +32,17 @@ format:
             {\huge\bfseries Yuxuan Chen} \\[4mm]
             
             \begin{tabular}{@{} l @{\hspace{3mm}} l @{}} 
-                \textbf{Email:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
+                \textbf{| Email:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
                                    & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\[1mm]
                 
-                \textbf{Phone:}    & +1 (857) 256-4713 \\
+                \textbf{| Phone:}    & +1 (857) 256-4713 \\
                                    & +86 139-5799-2893 \\[0.5mm]
                 
-                \textbf{Address:}  & Apt 12, 5 Walbridge St. Boston, MA 02115 \\[0.5mm]
+                \textbf{| Address:}  & Apt 12, 5 Walbridge St. Boston, MA 02115 \\[0.5mm]
                 
-                \textbf{Link:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
+                \textbf{| Link:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\[0.5mm]
                 
-                \textbf{Home Page:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
+                \textbf{| Home Page:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
             \end{tabular}
             
             \vspace*{2mm}
