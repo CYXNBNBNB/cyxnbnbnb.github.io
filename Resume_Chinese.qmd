@@ -177,7 +177,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf 哥伦比亚大学}\end{flushleft}
-    \begin{flushright}2023.7 – 2023.8\end{flushright}
+    \begin{flushright}2023.7 – 2023.9\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}

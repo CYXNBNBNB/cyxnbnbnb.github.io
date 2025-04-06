@@ -170,7 +170,7 @@ format:
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Columbia University}\end{flushleft}
-    \begin{flushright}Jul. 2023 – Aug. 2023\end{flushright}
+    \begin{flushright}Jul. 2023 – Sep. 2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
