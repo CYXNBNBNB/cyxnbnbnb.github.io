@@ -54,6 +54,21 @@ format:
 
 
 
+
+
+<!-- Skills -->
+\begin{large}{\bf 专业技能}
+  \vspace{3pt}
+  \hrule
+\end{large}
+* **英语水平**: CET4、CET6、TOEFL
+* **专业技能**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
+
+
+
+
+
+
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
   {\bf 教育经历}
@@ -307,10 +322,3 @@ format:
 * 作为负责人之一，带领7个台前幕后部门及志愿者，组织协办了二十余场中小型艺术活动以及6场校级大型晚会，涉及到路演、音乐会、元旦晚会、留学生新年晚会以及建党100周年晚会和建校70周年晚会等，获得了学校领导老师和广大同学的喜爱与肯定。
 
 
-<!-- Skills -->
-\begin{large}{\bf 专业技能}
-  \vspace{3pt}
-  \hrule
-\end{large}
-* **英语水平**: CET4、CET6、TOEFL
-* **专业技能**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics

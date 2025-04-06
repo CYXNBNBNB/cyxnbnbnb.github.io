@@ -54,27 +54,24 @@ format:
 \vspace*{2mm}
 
 
+
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+* **Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
+
+\vspace{0.2cm}
+
+
+
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
   {\bf EDUCATION}
   \vspace{3pt}
   \hrule
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf Zhejiang University of Technology}\end{flushleft}
-    \begin{flushright}Sep. 2020 - Jun. 2024\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}BS in Mathematics and Applied Mathematics\end{flushleft}
-  \end{multicols}
-  \vspace{-0.20cm}
-\end{large}
-* **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
-
-\vspace{0.2cm}
-
-<!-- EDUCATION: 2ND BULLET -->
-\begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Boston University}\end{flushleft}
     \begin{flushright}Sep. 2024 - Aug. 2025\end{flushright}
@@ -91,6 +88,21 @@ format:
 \vspace{1.5pt}
 
 
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Zhejiang University of Technology}\end{flushleft}
+    \begin{flushright}Sep. 2020 - Jun. 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}BS in Mathematics and Applied Mathematics\end{flushleft}
+  \end{multicols}
+  \vspace{-0.20cm}
+\end{large}
+* **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
+
+\vspace{0.2cm}
 
 
 
@@ -100,74 +112,6 @@ format:
 \begin{large}{\bf RESEARCH PROJECTS}
   \vspace{3pt}
   \hrule
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
-    \begin{flushright}Jul. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
-
-\vspace{7pt}
-
-<!-- Research Projects : 2ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
-    \begin{flushright}Jul. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
-
-\vspace{7pt}
-
-<!-- Research Projects : 3RD BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
-    \begin{flushright}Aug. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
-
-\vspace{7pt}
-
-<!-- Research Projects : 4TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
-    \begin{flushright}Aug. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
-
-\vspace{7pt}
-
-<!-- Research Projects : 5TH BULLET -->
-\begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Columbia University}\end{flushleft}
     \begin{flushright}Jul. 2023 – Sep. 2023\end{flushright}
@@ -186,29 +130,101 @@ format:
 
 \vspace{0.2cm}
 
-
-
-
-
-
-
-<!-- EXPERIENCE : 1ST BULLET-->
-\begin{large}{\bf EXPERIENCE}
-  \vspace{3pt}
-  \hrule
+<!-- Research Projects : 2ND BULLET -->
+\begin{large}
   \begin{multicols}{2}
-  \parbox{1.4\linewidth}{\bf Hangzhou Qianhe Mingde Equity Investment Co., Ltd.}
-    \begin{flushright}Aug. 2021 - Sep. 2021\end{flushright}
+  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
+    \begin{flushright}Aug. 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Investment Assistant}\end{flushleft}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Collected, researched, and organized information on 206 companies listed on NASDAQ and NYSE through IPOs from 2015 to 2021. This information included prospectuses, brokerage firms, IPO opening and closing prices, market capitalization, audit companies, and legal advisors. This data was used as a resource for planning IPOs for other companies and for industry research reports.
-* Managed risk control for four futures including China Securities and Continental Futures. Monitored position directions, opening prices, and real-time profits and used trend analysis and chart analysis for risk monitoring. Provided information on futures trading and prepared closing and transaction reports.
+* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
+
+\vspace{7pt}
+
+<!-- Research Projects : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
+
+\vspace{7pt}
+
+<!-- Research Projects : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
+    \begin{flushright}Jul. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
+
+\vspace{7pt}
+
+<!-- Research Projects : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
+    \begin{flushright}Jul. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
+
+\vspace{7pt}
+
+
+
+
+
+
+<!-- EXPERIENCE : 1ST BULLET -->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\bf Zhejiang Jinkong Investment Management Co., Ltd.}
+    \begin{flushright}Apr. 2024 - Jul. 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Finance Department Assistant}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Participated in the financial due diligence and investment decision-making meetings of System Technology (Shenzhen) Co., Ltd.
+* Participated in the due diligence report of Jiaxing Wuyuefeng-Dingfeng Shangshaoyuan Fund.
+* Participated in the due diligence and issuance of investment proposals for Ivy Capital's Zhejiang Science and Innovation Master Fund.
+* Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership).
+* Participated in financial due diligence appointments for the Orient Renaissance Capital.
+* Participated in financial due diligence interviews with Getech Communications (Zhejiang) Co.
+* Assisted in building business valuation models based on DCF (Discounted Cash Flow).
 
 \vspace{7pt}
 
@@ -231,30 +247,23 @@ format:
 
 \vspace{7pt}
 
-<!-- EXPERIENCE : 3RD BULLET -->
+<!-- EXPERIENCE : 3RD BULLET-->
 \begin{large}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\bf Zhejiang Jinkong Investment Management Co., Ltd.}
-    \begin{flushright}Apr. 2024 - Jul. 2024\end{flushright}
+  \parbox{1.4\linewidth}{\bf Hangzhou Qianhe Mingde Equity Investment Co., Ltd.}
+    \begin{flushright}Aug. 2021 - Sep. 2021\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Finance Department Assistant}\end{flushleft}
+    \begin{flushleft}\textit{Investment Assistant}\end{flushleft}
     \begin{flushright}  \end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Participated in the financial due diligence and investment decision-making meetings of System Technology (Shenzhen) Co., Ltd.
-* Participated in the due diligence report of Jiaxing Wuyuefeng-Dingfeng Shangshaoyuan Fund.
-* Participated in the due diligence and issuance of investment proposals for Ivy Capital's Zhejiang Science and Innovation Master Fund.
-* Participated in the due diligence investigation of Leaguer Fund's Zhejiang Science and Innovation Master Fund and issued an investment proposal for Zhejiang Science and Innovation Master Fund's participation in Guangxi Leaguer Zhongheng Pharmaceutical Investment Partnership (Limited Partnership).
-* Participated in financial due diligence appointments for the Orient Renaissance Capital.
-* Participated in financial due diligence interviews with Getech Communications (Zhejiang) Co.
-* Assisted in building business valuation models based on DCF (Discounted Cash Flow).
+* Collected, researched, and organized information on 206 companies listed on NASDAQ and NYSE through IPOs from 2015 to 2021. This information included prospectuses, brokerage firms, IPO opening and closing prices, market capitalization, audit companies, and legal advisors. This data was used as a resource for planning IPOs for other companies and for industry research reports.
+* Managed risk control for four futures including China Securities and Continental Futures. Monitored position directions, opening prices, and real-time profits and used trend analysis and chart analysis for risk monitoring. Provided information on futures trading and prepared closing and transaction reports.
 
 \vspace{7pt}
-
-
 
 
 
@@ -273,9 +282,3 @@ format:
 
 
 
-<!-- SKILLS -->
-\begin{large}{\bf SKILLS}
-  \vspace{3pt}
-  \hrule
-\end{large}
-**Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
