@@ -310,18 +310,6 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 浙江工业大学精弘网络活动部}
-    \begin{flushright}2020.9 - 2021.6\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{flushleft}\textit{干事}\end{flushleft}
-\end{large}
-\vspace{-0.16cm}
-* 负责和多家大中小企业商家接洽合作，举办多场校内活动，在活动的统筹策划宣传、现场控制、物资调配等方面经验丰富，擅长处理突发情况。
-
-<!-- Practical experience  2nd-->
-\begin{large}
-  \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf 浙江工业大学星星索大学生艺术团}
     \begin{flushright}2020.9 - 2023.6\end{flushright}
   \end{multicols}
@@ -331,4 +319,17 @@ format:
 \vspace{-0.16cm}
 * 作为负责人之一，带领7个台前幕后部门及志愿者，组织协办了二十余场中小型艺术活动以及6场校级大型晚会，涉及到路演、音乐会、元旦晚会、留学生新年晚会以及建党100周年晚会和建校70周年晚会等，获得了学校领导老师和广大同学的喜爱与肯定。
 
+\vspace{7pt}
+
+<!-- Practical experience  2nd-->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 浙江工业大学精弘网络活动部}
+    \begin{flushright}2020.9 - 2021.6\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{flushleft}\textit{干事}\end{flushleft}
+\end{large}
+\vspace{-0.16cm}
+* 负责和多家大中小企业商家接洽合作，举办多场校内活动，在活动的统筹策划宣传、现场控制、物资调配等方面经验丰富，擅长处理突发情况。
 
