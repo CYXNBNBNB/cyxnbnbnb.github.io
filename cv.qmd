@@ -263,7 +263,7 @@ format:
 
 
 <!-- AWARDS -->
-\begin{large}{\bf Awards}
+\begin{large}{\bf AWARDS}
   \vspace{3pt}
   \hrule
 \end{large}
@@ -273,8 +273,8 @@ format:
 
 
 
-<!-- Skills -->
-\begin{large}{\bf Skills}
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
   \vspace{3pt}
   \hrule
 \end{large}
