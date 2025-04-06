@@ -126,7 +126,7 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf 哥伦比亚大学}\end{flushleft}
+    \begin{flushleft}{\bf | 哥伦比亚大学}\end{flushleft}
     \begin{flushright}2023.7 – 2023.9\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -145,6 +145,7 @@ format:
 
 <!-- Research Projects : 2ND BULLET -->
 \begin{large}
+  \begin{flushleft}{\bf | 浙江工业大学}\end{flushleft}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf TBL语言基于斜率趋势预测的改进双均线交易策略}
     \begin{flushright}2022.10\end{flushright}

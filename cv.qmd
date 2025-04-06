@@ -113,7 +113,7 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Columbia University}\end{flushleft}
+    \begin{flushleft}{\bf | Columbia University}\end{flushleft}
     \begin{flushright}Jul. 2023 – Sep. 2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -132,6 +132,7 @@ format:
 
 <!-- Research Projects : 2ND BULLET -->
 \begin{large}
+  \begin{flushleft}{\bf | Zhejiang University of Technology}\end{flushleft}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
     \begin{flushright}Aug. 2022\end{flushright}
