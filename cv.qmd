@@ -56,6 +56,8 @@ format:
 
 
 
+
+
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
   \vspace{3pt}
@@ -67,7 +69,11 @@ format:
 
 
 
-<!-- EDUCATION: 1ST BULLET -->
+
+
+
+
+<!-- EDUCATION: Boston University -->
 \begin{large}
   {\bf EDUCATION}
   \vspace{3pt}
@@ -83,12 +89,12 @@ format:
   \vspace{-0.20cm}
 \end{large}
 
-* **Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
+**Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
 
-\vspace{1.5pt}
+\vspace{2pt}
 
 
-<!-- EDUCATION: 2ND BULLET -->
+<!-- EDUCATION: ZJUT -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Zhejiang University of Technology}\end{flushleft}
@@ -100,7 +106,13 @@ format:
   \end{multicols}
   \vspace{-0.20cm}
 \end{large}
-* **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
+**Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytical Geometry, Ordinary Differential Equations, Probability Theory, Operations Research, Optimization Methods, Time Series Analysis, Complex Variables and Integral Transform, Numerical Computation, Data Analysis with R, Mathematical Modeling, Financial Mathematics.
+
+**Awards**
+
+* Third Prize in Zhejiang University of Technology Mathematical Modeling Competition in May 2022
+* Excellent Prize in the 10th Zhejiang Province University Student Advertising Creative Competition in July 2022
+* Excellent Prize in the 14th National University Student Advertising Art Competition in July 2022
 
 \vspace{0.2cm}
 
@@ -108,7 +120,13 @@ format:
 
 
 
-<!--Research Projects : 1ST BULLET -->
+
+
+
+
+<!--Research Projects : Boston University -->
+
+<!--Research Projects : Columbia University -->
 \begin{large}{\bf RESEARCH PROJECTS}
   \vspace{3pt}
   \hrule
@@ -130,7 +148,7 @@ format:
 
 \vspace{0.2cm}
 
-<!-- Research Projects : 2ND BULLET -->
+<!-- Research Projects : ZJUT 1ST -->
 \begin{large}
   \begin{flushleft}{\bf | Zhejiang University of Technology}\end{flushleft}
   \begin{multicols}{2}
@@ -148,7 +166,7 @@ format:
 
 \vspace{7pt}
 
-<!-- Research Projects : 3RD BULLET -->
+<!-- Research Projects : ZJUT 2ND -->
 \begin{large}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
@@ -165,7 +183,7 @@ format:
 
 \vspace{7pt}
 
-<!-- Research Projects : 4TH BULLET -->
+<!-- Research Projects : ZJUT 3RD -->
 \begin{large}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
@@ -182,7 +200,7 @@ format:
 
 \vspace{7pt}
 
-<!-- Research Projects : 5TH BULLET -->
+<!-- Research Projects : ZJUT 4TH -->
 \begin{large}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
@@ -272,7 +290,8 @@ format:
 
 
 
-<!-- AWARDS -->
+<!-- AWARDS 
+
 \begin{large}{\bf AWARDS}
   \vspace{3pt}
   \hrule
@@ -281,5 +300,6 @@ format:
 * Excellent Prize in the 10th Zhejiang Province University Student Advertising Creative Competition in July 2022
 * Excellent Prize in the 14th National University Student Advertising Art Competition in July 2022
 
+-->
 
 
