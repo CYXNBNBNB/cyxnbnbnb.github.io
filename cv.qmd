@@ -76,6 +76,99 @@ format:
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
+    \begin{flushleft}{\bf Boston University}\end{flushleft}
+    \begin{flushright}Sep. 2024 - Aug. 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}MS in Applied Business Analytics\end{flushleft}
+  \end{multicols}
+  \vspace{-0.20cm}
+\end{large}
+
+* **Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
+
+\vspace{1.5pt}
+
+
+
+
+
+
+
+<!--Research Projects : 1ST BULLET -->
+\begin{large}{\bf RESEARCH PROJECTS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
+    \begin{flushright}Jul. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
+
+\vspace{7pt}
+
+<!-- Research Projects : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
+    \begin{flushright}Jul. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
+
+\vspace{7pt}
+
+<!-- Research Projects : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
+
+\vspace{7pt}
+
+<!-- Research Projects : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
+    \begin{flushright}Aug. 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Programmer}\end{flushleft}
+    \begin{flushright}  \end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
+
+\vspace{7pt}
+
+<!-- Research Projects : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
     \begin{flushleft}{\bf Columbia University}\end{flushleft}
     \begin{flushright}Jul. 2023 – Aug. 2023\end{flushright}
   \end{multicols}
@@ -93,22 +186,8 @@ format:
 
 \vspace{0.2cm}
 
-<!-- EDUCATION: 3ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf Boston University}\end{flushleft}
-    \begin{flushright}Sep. 2024 - Aug. 2025\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}MS in Applied Business Analytics\end{flushleft}
-  \end{multicols}
-  \vspace{-0.20cm}
-\end{large}
 
-* **Relevant Courses**: Business Analytics Foundations, Operations Management, Financial Concepts, Quantitative and Qualitative Decision Making, Enterprise Risk Analytics, Marketing Analytics, Web Analytics for Business, Data Mining for Business Analytics, Investment Analysis and Portfolio Management, Quantitative Methods for Finance.
 
-\vspace{1.5pt}
 
 
 
@@ -178,69 +257,7 @@ format:
 
 
 
-<!--Research Projects : 1ST BULLET -->
-\begin{large}{\bf Research Projects}
-  \vspace{3pt}
-  \hrule
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Predictive Analysis and Solution for Medical and Pension Security in Changzhou Using Regression Analysis}
-    \begin{flushright}Jul. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project focuses on predicting and addressing medical and pension security issues in Changzhou. The aim is to allocate city resources more efficiently based on the forecasted medical and pension security needs, providing high-quality medical and pension services to the public and building a more comprehensive social security service system.
 
-\vspace{7pt}
-
-<!-- Research Projects : 2ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Research on Quality Control Problems in Ore Processing Based on Multiple Linear Regression}
-    \begin{flushright}Jul. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project aims to optimize the problems associated with low resource recovery rates and unstable product quality in ore processing plants. By improving the quality of ore processing, the industry can save non-renewable mineral resources and energy consumption, contributing to environmental sustainability.
-
-<!-- Research Projects : 3RD BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Research on Sorting System Optimization Based on the Greedy Algorithm}
-    \begin{flushright}Aug. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project focuses on improving the efficiency of the sorting process in the context of e-commerce and parcel delivery. It addresses order batching, item placement, and task assignment to enhance the overall performance of distribution centers, ultimately boosting the competitiveness of e-commerce companies.
-
-<!-- Research Projects : 4TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf Mobile Communication Network Site Planning and Regional Clustering Problem Based on Multi-Objective Programming Models}
-    \begin{flushright}Aug. 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Programmer}\end{flushleft}
-    \begin{flushright}  \end{flushright}\end
-  {multicols}
-\end{large}
-\vspace{-0.16cm}
-* **Description**: This project deals with the complex issue of planning mobile communication network sites and clusters, considering the evolving technology and increasing demand for advanced communication services. The objective is to optimize the deployment of new base stations and types while minimizing costs and improving coverage.
 
 
 
