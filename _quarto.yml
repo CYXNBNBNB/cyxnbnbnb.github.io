@@ -17,7 +17,7 @@ website:
           - href: Resume_Chinese.qmd
             text: 简历下载
       - href: projects.qmd
-        text: Prjects
+        text: Projects
       - href: contact.qmd
         text: Contact Me
 
