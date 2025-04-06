@@ -198,7 +198,7 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\textbf{价值投资技术}: CFA证书中高级估值模型应用及探索研究}
+    \parbox{1.4\linewidth}{\textbf{价值投资技术}: 评估模型在 CFA 认证中的高级应用与探索研究}
   \end{multicols}
   \vspace{-0.10cm}
 \end{large}
