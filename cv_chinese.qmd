@@ -280,8 +280,8 @@ format:
 
 
 
-<!-- Practical experience  1st-->
-\begin{large}{\bf 实践经历}
+<!-- Activity Experience  1st-->
+\begin{large}{\bf 活动经历}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
