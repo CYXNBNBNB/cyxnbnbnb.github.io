@@ -26,22 +26,26 @@ format:
 # quarto render resume.qmd --to pdf --output-dir Documents
   
 ---
+
 <!-- TITLE -->
 \begin{tabular}{@{} m{0.72\textwidth} m{0.25\textwidth} @{}}
     \begin{minipage}[t]{0.98\linewidth}
         \begin{flushleft}
-            {\huge\bfseries 陈宇轩} \\[4mm]
+            \begin{minipage}[t]{0.75\linewidth}
+                {\fontsize{25}{32}\selectfont\bfseries 陈\hspace{0.5em}宇\hspace{0.5em}轩} \\[-2mm]
+                \hspace*{-0.5mm}\rule{8cm}{1pt} \\ [-3mm] % 加长加粗的下划线
+            \end{minipage}
             
             \begin{tabular}{@{} l @{\hspace{3mm}} l @{}} 
-                \textbf{| 电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
+                \hspace*{8mm}\textbf{| 电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
                                    & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\
                 
-                \textbf{| 联系方式:}    & +1 (857) 256-4713 \\
+                \hspace*{8mm}\textbf{| 联系方式:}    & +1 (857) 256-4713 \\
                                    & +86 139-5799-2893 \\
                 
-                \textbf{| 个人网站:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
+                \hspace*{8mm}\textbf{| 个人网站:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
                 
-                \textbf{| Github主页:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
+                \hspace*{8mm}\textbf{| Github主页:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
             \end{tabular}
             
             \vspace*{2mm}
