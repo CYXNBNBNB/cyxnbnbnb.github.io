@@ -37,15 +37,15 @@ format:
             \end{minipage}
             
             \begin{tabular}{@{} l @{\hspace{3mm}} l @{}} 
-                \hspace*{8mm}\textbf{| 电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
+                \hspace*{6.5mm}\textbf{| 电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
                                    & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\
                 
-                \hspace*{8mm}\textbf{| 联系方式:}    & +1 (857) 256-4713 \\
+                \hspace*{6.5mm}\textbf{| 联系方式:}    & +1 (857) 256-4713 \\
                                    & +86 139-5799-2893 \\
                 
-                \hspace*{8mm}\textbf{| 个人网站:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
+                \hspace*{6.5mm}\textbf{| 个人网站:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
                 
-                \hspace*{8mm}\textbf{| Github主页:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
+                \hspace*{6.5mm}\textbf{| Github主页:} & \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
             \end{tabular}
             
             \vspace*{2mm}
