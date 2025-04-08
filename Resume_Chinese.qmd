@@ -86,15 +86,15 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 \end{large}
 **相关课程**: 数学分析、高等代数、空间解析几何、常微分方程、随机过程、近世代数、实变函数、运筹学、最优化方法、时间序列分析、概率论与数理统计、复变函数与积分变换、数值计算、数据分析与R语言、数学模型、金融数学<br>
   \begin{multicols}{2}
-    \begin{flushleft}{\bf • 浙江工业大学数学建模竞赛三等奖}\end{flushleft}
+    \begin{flushleft}\hspace*{6mm}{\bf • 浙江工业大学数学建模竞赛三等奖}\end{flushleft}
     \begin{flushright}2022.5\end{flushright}
   \end{multicols}
     \begin{multicols}{2}
-    \begin{flushleft}{\bf • 浙江省第十届大学生广告创意竞赛优秀奖}\end{flushleft}
+    \begin{flushleft}\hspace*{6mm}{\bf • 浙江省第十届大学生广告创意竞赛优秀奖}\end{flushleft}
     \begin{flushright}2022.7\end{flushright}
   \end{multicols}
     \begin{multicols}{2}
-    \begin{flushleft}{\bf • 第14届全国大学生广告艺术大赛优秀奖}\end{flushleft}
+    \begin{flushleft}\hspace*{6mm}{\bf • 第14届全国大学生广告艺术大赛优秀奖}\end{flushleft}
     \begin{flushright}2022.7\end{flushright}
   \end{multicols}
 
