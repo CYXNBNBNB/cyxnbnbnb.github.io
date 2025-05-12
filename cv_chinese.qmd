@@ -123,12 +123,36 @@ format:
 
 
 
-
-
-<!--Research Projects : 哥伦比亚大学 -->
+<!--Research Projects : 波士顿大学 -->
 \begin{large}{\bf 课题研究}
   \vspace{3pt}
   \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf | 波士顿大学}\end{flushleft}
+    \begin{flushright}2025.2 – 2025.5\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\textbf{商业运行案例}：评估 2024 年个人就业市场前景}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+\vspace{1.5pt}
+
+* 通过使用 Lightcast 数据和外部劳动力市场来源，我们重点关注了不同学科之间的薪酬差异，并探讨了求职者如何在招聘趋势、薪酬、人工智能应用、远程工作和基于性别的就业模式发生变化的情况下有效定位自己。
+
+* 本研究旨在分析 2024 年数据科学的薪资模式，深入探讨行业内的薪酬差距和发展机会。
+
+**项目展示**: [https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/](https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/)
+
+**Github存储库**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
+
+\vspace{0.2cm}
+
+
+<!--Research Projects : 哥伦比亚大学 -->
+\begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf | 哥伦比亚大学}\end{flushleft}
     \begin{flushright}2023.7 – 2023.9\end{flushright}

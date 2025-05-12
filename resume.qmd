@@ -111,7 +111,7 @@ Home Page: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{\bf | Boston University}\end{flushleft}
-    \begin{flushright}Apr. 2025 – May. 2025\end{flushright}
+    \begin{flushright}Feb. 2025 – May. 2025\end{flushright}
   \end{multicols}
   \begin{multicols}{2}
     \parbox{1.5\linewidth}{\textbf{Business Running Case}: Evaluating Personal Job Market Prospects in 2024}
@@ -125,9 +125,9 @@ Home Page: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 * This research aims to analyze salary patterns in data science in 2024, providing insights into compensation disparities and growth opportunities within the industry.
 
-**Repository**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
-
 **Website**: [https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/](https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/)
+
+**Repository**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
 
 \vspace{0.2cm}
 
