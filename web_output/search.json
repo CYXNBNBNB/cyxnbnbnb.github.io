@@ -14,6 +14,13 @@
     "text": "How do salaries differ across AI vs. non-AI careers?\nWhat regions offer the highest-paying jobs in AI-related and traditional careers?\nAre remote jobs better paying than in-office roles?\nWhat industries saw the biggest wage growth in 2024?\n\n\n\n\nThrough this research, we anticipate identifying key patterns in data science salaries, such as:\n\nAn increase in salaries for AI and machine learning specialists due to growing demand.\nPotential stagnation or decline in entry-level data science salaries due to an influx of new professionals entering the field.\nA widening salary gap between regions due to remote work policies and cost-of-living differences.\nIndustry-specific salary trends, where certain sectors may offer higher compensation based on their reliance on data-driven insights.\n\nRepository: GitHub                         Website: Visit Website"
   },
   {
+    "objectID": "projects.html#lobster-land-cruise-industry-expansion-consulting",
+    "href": "projects.html#lobster-land-cruise-industry-expansion-consulting",
+    "title": "Project",
+    "section": "Lobster Land: Cruise Industry Expansion Consulting",
+    "text": "Lobster Land: Cruise Industry Expansion Consulting\nWorked in a consulting team hired by “Lobster Land” to evaluate potential expansion into the cruise industry. Leveraged analytics and business insights to provide strategic recommendations across multiple domains:\n\nMarket Analysis & Segmentation: Clustered Caribbean cruise-port data to define segments and recommend tailored itineraries and marketing.\nConjoint Analysis: Used ratings-based conjoint modeling to identify the most appealing and cost-effective onboard experience bundles for overnight voyages; selected combinations within budget constraints.\nPredictive Modeling: Built a classification model to predict customer cancellation risk; translated model insights into actionable retention strategies.\nForecasting & A/B Testing: Forecasted 2025 EPS for major cruise lines (Carnival & NCLH); performed A/B testing on cruise-themed marketing visuals to guide creative selection.\nData Visualization: Created an interactive Tableau dashboard highlighting key insights from cruise industry datasets.\nStrategic Case Analysis: Developed a customer segmentation-based cruise product proposal inspired by Royal Caribbean’s Icon of the Seas.\n\nRepository: GitHub"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuxuan Chen",
