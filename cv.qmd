@@ -63,7 +63,7 @@ format:
   \vspace{3pt}
   \hrule
 \end{large}
-* **Technical Skills**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
+* **Technical Skills**: Python, R, MATLAB, SQL, C, SPSS, Statistics, Microsoft Word, PowerPoint, Excel
 
 \vspace{0.2cm}
 

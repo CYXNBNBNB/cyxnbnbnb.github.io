@@ -46,7 +46,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
   \hrule
 \end{large}
 * **英语水平**: CET4、CET6、TOEFL
-* **专业技能**: Microsoft Word, PowerPoint, Excel, MATLAB, C, Python, R, SPSS, Statistics
+* **专业技能**: Python, R, MATLAB, SQL, C, SPSS, Statistics, Microsoft Word, PowerPoint, Excel
 
 
 
