@@ -124,7 +124,7 @@ format:
 
 
 
-<!--Research Projects : Boston University -->
+<!--Research Projects : Boston University 1St -->
 \begin{large}{\bf RESEARCH PROJECTS}
   \vspace{3pt}
   \hrule
@@ -148,6 +148,29 @@ format:
 
 **Repository**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
 
+
+\vspace{0.2cm}
+
+<!--Research Projects : Boston University 2ND -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf Lobster Land: Cruise Industry Expansion Consulting}
+    \begin{flushright}Feb. 2025 – May. 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+\vspace{1.5pt}
+
+Worked in a consulting team hired by “Lobster Land” to evaluate potential expansion into the cruise industry. Leveraged analytics and business insights to provide strategic recommendations across multiple domains: 
+
+* **Market Analysis & Segmentation**: Clustered Caribbean cruise-port data to define segments and recommend tailored itineraries and marketing.
+* **Conjoint Analysis**: Used ratings-based conjoint modeling to identify the most appealing and cost-effective onboard experience bundles for overnight voyages; selected combinations within budget constraints.
+* **Predictive Modeling**: Built a classification model to predict customer cancellation risk; translated model insights into actionable retention strategies.
+* **Forecasting & A/B Testing**: Forecasted 2025 EPS for major cruise lines (Carnival & NCLH); performed A/B testing on cruise-themed marketing visuals to guide creative selection.
+* **Strategic Case Analysis**: Developed a customer segmentation-based cruise product proposal inspired by Royal Caribbean's *Icon of the Seas*.
+
+**Repository**: [https://github.com/CYXNBNBNB/AD654-Sp25A3-Project](https://github.com/CYXNBNBNB/AD654-Sp25A3-Project)
 
 \vspace{0.2cm}
 
