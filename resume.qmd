@@ -105,7 +105,7 @@ Home Page: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 
 
-<!--Research Projects : Boston University -->
+<!--Research Projects : Boston University 1ST -->
 \begin{large}{\bf RESEARCH PROJECTS}
   \vspace{3pt}
   \hrule

@@ -123,7 +123,7 @@ format:
 
 
 
-<!--Research Projects : 波士顿大学 -->
+<!--Research Projects : 波士顿大学 1ST -->
 \begin{large}{\bf 课题研究}
   \vspace{3pt}
   \hrule
@@ -147,6 +147,30 @@ format:
 **项目展示**: [https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/](https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/)
 
 **Github存储库**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
+
+\vspace{0.2cm}
+
+
+<!--Research Projects : Boston University 2ND -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 龙虾乐园: 邮轮业务扩张分析}
+    \begin{flushright}Feb. 2025 – May. 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+\vspace{1.5pt}
+
+作为为“龙虾乐园”的咨询团队，为其评估拓展邮轮业务的可行性。利用数据分析和商业洞察，在多个领域提供战略建议：
+
+* **市场分析与细分**： 利用邮轮港口数据进行聚类分析，对加勒比海市场进行细分；为每个细分市场推荐有针对性的邮轮行程和营销策略。
+* **联合分析**： 采用基于评分的联合分析模型，识别最具吸引力且性价比最高的夜航船上体验套餐；在预算范围内筛选最佳组合。
+* **预测建模**： 构建分类模型预测客户取消风险，并将模型洞察转化为可执行的客户挽留策略。
+* **预测与 A/B 测试**： 预测 2025 年 Carnival（嘉年华）和 NCLH（挪威邮轮公司）的每股收益（EPS）；对邮轮主题营销视觉素材进行 A/B 测试，以指导创意选择。
+* **战略案例分析**: 借鉴皇家加勒比“海洋标志号”（*Icon of the Seas*）案例，基于客户细分开发邮轮产品战略方案。
+
+**Github存储库**: [https://github.com/CYXNBNBNB/AD654-Sp25A3-Project](https://github.com/CYXNBNBNB/AD654-Sp25A3-Project)
 
 \vspace{0.2cm}
 
