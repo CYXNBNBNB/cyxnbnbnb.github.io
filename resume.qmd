@@ -121,9 +121,11 @@ Home Page: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 \vspace{1.5pt}
 
-* By using Lightcast data and external labor market sources, We focused on salary differences across disciplines, and explore how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. 
+* This study explores the differences in compensation between AI and non-AI occupations, the geographic distribution of high-paying AI and traditional roles, the salary comparison between remote and on-site jobs, the fastest-growing industries in terms of wages in 2024, and the key beneficiaries of the rise of AI. Using data from Lightcast and external labor market sources, it focuses on pay disparities across disciplines and examines how job seekers can effectively position themselves amid evolving hiring trends, compensation patterns, AI adoption, remote work, and gender-based employment dynamics.
 
-* This research aims to analyze salary patterns in data science in 2024, providing insights into compensation disparities and growth opportunities within the industry.
+* Using Exploratory Data Analysis (EDA), this study examines salary comparisons between remote and on-site jobs, regional salary distributions, the highest-paying occupations, and compensation differences between AI and non-AI roles. It also compares team skills with industry demands to conduct a Skill Gap Analysis, identifying areas where the team's capabilities may not align with market expectations.
+* **Machine Learning (ML)**: Perform cluster analysis on the dataset using K-Means to explore how different job roles group into clusters based on salary, employment type, job duration, education level, remote options, state, and other categorical factors. Additionally, build a multiple linear regression model to predict salary.
+* **Natural Language Processing (NLP) Approach**: Apply K-Means clustering to the TF-IDF features of job descriptions to divide them into four distinct clusters, and generate word clouds for each cluster for analysis. In addition, train two different classifiers—Naive Bayes and Support Vector Machine (SVM)—to predict the corresponding job cluster based on the TF-IDF features extracted from the job descriptions.
 
 **Website**: [https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/](https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/)
 
