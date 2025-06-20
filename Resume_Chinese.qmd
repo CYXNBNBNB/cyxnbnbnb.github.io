@@ -103,68 +103,19 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 
 
-
-
 <!--Research Projects : 波士顿大学 1ST -->
 \begin{large}{\bf 课题研究}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{\bf | 波士顿大学}\end{flushleft}
-    \begin{flushright}2025.2 – 2025.5\end{flushright}
+    \begin{flushright}2025.5 – 2025.6\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\textbf{商业运行案例}：评估 2024 年个人就业市场前景}
+    \parbox{1.4\linewidth}{\textbf {国内（美国）及国际股票投资组合研究}}
   \end{multicols}
   \vspace{-0.10cm}
-\end{large}
-
-\vspace{1.5pt}
-
-* 本研究基于薪资与薪资趋势，探讨 AI 与非 AI 职业的薪酬差异、各地区 AI 及传统岗位的高薪分布、远程与办公室工作的薪酬对比、2024 年薪资增长最快的行业以及 AI 崛起的主要受益者。通过使用 Lightcast 数据和外部劳动力市场来源，重点关注了不同学科之间的薪酬差异，并探讨了求职者如何在招聘趋势、薪酬、人工智能应用、远程工作和基于性别的就业模式发生变化的情况下有效定位自己。
-* 使用探索性数据分析（Exploratory Data Analysis），研究了远程和现场工作的薪资比较、各地区薪资、薪资最高的工作以及人工智能和非人工智能职位的薪资比较。并将团队技能与行业要求进行比较，对团队的技能差距进行分析（Skill Gap Analysis）。
-* **机器学习（ML）**：使用 K-Means 构建聚类对数据集运行聚类分析，以探索不同的工作角色如何根据薪水、就业类型以及工作持续时间、教育水平、远程选项和州等一些分类因素归于同一簇，并构建一个多元线性回归模型来预测薪水。
-* **自然语言处理（NLP）方法**：将 K-Means 聚类应用于职位描述的 TF-IDF 特征，将其分为四个不同的集群，为每个集群生成词云进行分析。此外，训练了两种不同的分类器，朴素贝叶斯和支持向量机（SVM），以根据从工作描述中提取的 TF-IDF 特征来预测所属的工作集群。
-
-**项目展示**: [https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/](https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/)
-
-**Github存储库**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
-
-\vspace{0.2cm}
-
-
-<!--Research Projects : Boston University 2ND -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 龙虾乐园: 邮轮业务扩张分析}
-    \begin{flushright}Feb. 2025 – May. 2025\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-\end{large}
-
-\vspace{1.5pt}
-
-作为为“龙虾乐园”的咨询团队，为其评估拓展邮轮业务的可行性。利用数据分析和商业洞察，在多个领域提供战略建议：
-
-* **市场分析与细分**： 利用邮轮港口数据进行聚类分析，对加勒比海市场进行细分；为每个细分市场推荐有针对性的邮轮行程和营销策略。
-* **联合分析**： 采用基于评分的联合分析模型，识别最具吸引力且性价比最高的夜航船上体验套餐；在预算范围内筛选最佳组合。
-* **预测建模**： 构建分类模型预测客户取消风险，并将模型洞察转化为可执行的客户挽留策略。
-* **预测与 A/B 测试**： 预测 2025 年 Carnival（嘉年华）和 NCLH（挪威邮轮公司）的每股收益（EPS）；对邮轮主题营销视觉素材进行 A/B 测试，以指导创意选择。
-* **战略案例分析**: 借鉴皇家加勒比“海洋标志号”（*Icon of the Seas*）案例，基于客户细分开发邮轮产品战略方案。
-
-**Github存储库**: [https://github.com/CYXNBNBNB/AD654-Sp25A3-Project](https://github.com/CYXNBNBNB/AD654-Sp25A3-Project)
-
-\vspace{0.2cm}
-
-
-<!--Research Projects : Boston University 3RD -->
-\begin{large}
-  \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 国内（美国）及国际股票投资组合研究}
-    \begin{flushright}May. 2025 – Jun. 2025\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
 \end{large}
 
 \vspace{1.5pt}
@@ -189,6 +140,57 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 
 
+<!--Research Projects : Boston University 2ND -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\textbf{数据驱动的职业分析}：评估 2024 年个人就业市场前景}
+    \begin{flushright}2025.2 – 2025.5\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+\vspace{1.5pt}
+
+* 本研究基于薪资与薪资趋势，探讨 AI 与非 AI 职业的薪酬差异、各地区 AI 及传统岗位的高薪分布、远程与办公室工作的薪酬对比、2024 年薪资增长最快的行业以及 AI 崛起的主要受益者。通过使用 Lightcast 数据和外部劳动力市场来源，重点关注了不同学科之间的薪酬差异，并探讨了求职者如何在招聘趋势、薪酬、人工智能应用、远程工作和基于性别的就业模式发生变化的情况下有效定位自己。
+
+* 使用探索性数据分析（Exploratory Data Analysis），研究了远程和现场工作的薪资比较、各地区薪资、薪资最高的工作以及人工智能和非人工智能职位的薪资比较。并将团队技能与行业要求进行比较，对团队的技能差距进行分析（Skill Gap Analysis）。
+* **机器学习（ML）**：使用 K-Means 构建聚类对数据集运行聚类分析，以探索不同的工作角色如何根据薪水、就业类型以及工作持续时间、教育水平、远程选项和州等一些分类因素归于同一簇，并构建一个多元线性回归模型来预测薪水。
+* **自然语言处理（NLP）方法**：将 K-Means 聚类应用于职位描述的 TF-IDF 特征，将其分为四个不同的集群，为每个集群生成词云进行分析。此外，训练了两种不同的分类器，朴素贝叶斯和支持向量机（SVM），以根据从工作描述中提取的 TF-IDF 特征来预测所属的工作集群。
+
+**项目展示**: [https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/](https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/)
+
+**Github存储库**: [https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6](https://github.com/CYXNBNBNB/ad688-employability-sp25A1-group6)
+
+\vspace{0.2cm}
+
+
+<!--Research Projects : Boston University 3RD -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\textbf{龙虾乐园: 邮轮业务扩张分析}}
+    \begin{flushright}2025.2 – 2025.5\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+\vspace{1.5pt}
+
+作为为“龙虾乐园”的咨询团队，为其评估拓展邮轮业务的可行性。利用数据分析和商业洞察，在多个领域提供战略建议：
+
+* **市场分析与细分**： 利用邮轮港口数据进行聚类分析，对加勒比海市场进行细分；为每个细分市场推荐有针对性的邮轮行程和营销策略。
+* **联合分析**： 采用基于评分的联合分析模型，识别最具吸引力且性价比最高的夜航船上体验套餐；在预算范围内筛选最佳组合。
+* **预测建模**： 构建分类模型预测客户取消风险，并将模型洞察转化为可执行的客户挽留策略。
+* **预测与 A/B 测试**： 预测 2025 年 Carnival（嘉年华）和 NCLH（挪威邮轮公司）的每股收益（EPS）；对邮轮主题营销视觉素材进行 A/B 测试，以指导创意选择。
+* **战略案例分析**: 借鉴皇家加勒比“海洋标志号”（*Icon of the Seas*）案例，基于客户细分开发邮轮产品战略方案。
+
+**Github存储库**: [https://github.com/CYXNBNBNB/AD654-Sp25A3-Project](https://github.com/CYXNBNBNB/AD654-Sp25A3-Project)
+
+\vspace{0.2cm}
+
+
+
+
+
 <!--Research Projects : 哥伦比亚大学 -->
 \begin{large}
   \begin{multicols}{2}
@@ -209,11 +211,13 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 \vspace{0.2cm}
 
+
+
 <!-- Research Projects : 浙江工业大学 1ST -->
 \begin{large}
   \begin{flushleft}{\bf | 浙江工业大学}\end{flushleft}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf TBL语言基于斜率趋势预测的改进双均线交易策略}
+  \parbox{1.6\linewidth}{\textbf{TBL语言基于斜率趋势预测的改进双均线交易策略}}
     \begin{flushright}2022.10\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -231,7 +235,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- Research Projects : 浙江工业大学 2ND -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 基于贪心算法思想的分拣系统优化问题研究}
+  \parbox{1.6\linewidth}{\textbf{基于贪心算法思想的分拣系统优化问题研究}}
     \begin{flushright}2022.8\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -249,7 +253,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- Research Projects : 浙江工业大学 3RD -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 基于多目标规划模型的移动通信网络站址规划和区域聚类问题}
+  \parbox{1.6\linewidth}{\textbf{基于多目标规划模型的移动通信网络站址规划和区域聚类问题}}
     \begin{flushright}2022.8\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -267,7 +271,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- Research Projects : 浙江工业大学 4TH-->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 基于多元线性回归的矿石加工质量控制问题研究}
+  \parbox{1.6\linewidth}{\textbf{基于多元线性回归的矿石加工质量控制问题研究}}
     \begin{flushright}2022.7\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -285,7 +289,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- Research Projects : 浙江工业大学 5TH -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 利用回归分析预测并求解常州市的医疗和养老保障问题}
+  \parbox{1.6\linewidth}{\textbf{利用回归分析预测并求解常州市的医疗和养老保障问题}}
     \begin{flushright}2022.7\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -305,13 +309,13 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 
 
 
-
+\newpage
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf 实习经历}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\bf 浙江金控投资管理有限公司}
+    \parbox{1.4\linewidth}{\textbf{浙江金控投资管理有限公司}}
     \begin{flushright}2024.4 - 2024.7\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -334,7 +338,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\bf 国家税务总局金华市金东区税务局}
+    \parbox{1.4\linewidth}{\textbf{国家税务总局金华市金东区税务局}}
     \begin{flushright}2021.12 - 2022.1\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -353,7 +357,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.4\linewidth}{\bf 杭州谦和明德股权投资有限公司}
+  \parbox{1.4\linewidth}{\textbf{杭州谦和明德股权投资有限公司}}
     \begin{flushright}2021.8 - 2021.9\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -377,7 +381,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 浙江工业大学星星索大学生艺术团}
+  \parbox{1.6\linewidth}{\textbf{浙江工业大学星星索大学生艺术团}}
     \begin{flushright}2020.9 - 2023.6\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -391,7 +395,7 @@ Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 <!-- Practical experience  2nd-->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\bf 浙江工业大学精弘网络活动部}
+  \parbox{1.6\linewidth}{\textbf{浙江工业大学精弘网络活动部}}
     \begin{flushright}2020.9 - 2021.6\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}

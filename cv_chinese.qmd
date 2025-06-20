@@ -162,7 +162,7 @@ format:
 <!--Research Projects : Boston University 2ND -->
 \begin{large}
   \begin{multicols}{2}
-  \parbox{1.6\linewidth}{\textbf{数据驱动的职业分析：评估 2024 年个人就业市场前景}}
+  \parbox{1.6\linewidth}{\textbf{数据驱动的职业分析}：评估 2024 年个人就业市场前景}
     \begin{flushright}2025.2 – 2025.5\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
