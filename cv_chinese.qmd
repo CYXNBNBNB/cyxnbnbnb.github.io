@@ -177,6 +177,38 @@ format:
 \vspace{0.2cm}
 
 
+<!--Research Projects : Boston University 3RD -->
+\begin{large}
+  \begin{multicols}{2}
+  \parbox{1.6\linewidth}{\bf 国内（美国）及国际股票投资组合研究}
+    \begin{flushright}May. 2025 – Jun. 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+\vspace{1.5pt}
+
+**美国本土股票投资组合项目**
+
+* 构建了一个由3只美国股票组成的多元化投资组合，覆盖不同经济行业，并使用标普500指数与道琼斯30指数作为基准，数据时间范围从2000年到2025年。
+* 运用Excel对每月持有期收益（HPY）进行时序与横截面分析，包括平均收益率、波动率、夏普比率与系统性风险（Beta）。
+* 利用资本资产定价模型（CAPM）和股利贴现模型（DDM）估算预期收益率。
+* 制作收益指数图、有效前沿图、收益-风险图等可视化工具来展示组合增长与相对表现。
+
+**国际股票投资组合项目**
+
+* 设计了一个包含6个国家（包括美国、中国及其他发达和新兴市场）的国际ETF投资组合，确保地理与经济结构的多样性。
+* 所有市场收益以美元为报告货币（Reporting Currency）进行计算，综合考虑汇率变化，并统一对齐各国自2000年至2025年的月度历史数据。
+* 分析各市场的收益率、风险水平及相关性，量化国际组合的分散化效益。
+* 制作资本基准指数（CBI）图、相关系数矩阵图、国际组合有效前沿图等，评估组合表现与风险。
+
+**Github存储库**: [AD717-Domestic_n_International_Equity_Portfolio_Project](https://github.com/CYXNBNBNB/AD717-Domestic_n_International_Equity_Portfolio_Project.git)
+
+\vspace{0.2cm}
+
+
+
+
 <!--Research Projects : 哥伦比亚大学 -->
 \begin{large}
   \begin{multicols}{2}
