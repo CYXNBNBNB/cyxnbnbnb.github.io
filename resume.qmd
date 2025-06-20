@@ -106,15 +106,12 @@ Home Page: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 \begin{large}{\bf RESEARCH PROJECTS}
   \vspace{3pt}
   \hrule
-  \begin{multicols}{2}
     \begin{flushleft}{\bf | Boston University}\end{flushleft}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\textbf {Domestic(U.S.) and International Equity Portfolio research}}
     \begin{flushright}May. 2025 – Jun. 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\textbf {Domestic(U.S.) and International Equity Portfolio research}}
-  \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 \vspace{1.5pt}
@@ -189,23 +186,20 @@ Worked in a consulting team hired by “Lobster Land” to evaluate potential ex
 
 
 
-
-
-
-
 <!--Research Projects : Columbia University -->
-\begin{large}
-  \begin{multicols}{2}
+\begin{large}{\bf RESEARCH PROJECTS}
+  \vspace{3pt}
+  \hrule
     \begin{flushleft}{\bf | Columbia University}\end{flushleft}
+  \begin{multicols}{2}
+    \parbox{1.4\linewidth}{\textbf {Value Investment Techniques}: Advanced Application and Exploration Research of Valuation Models in CFA Certification}
     \begin{flushright}Jul. 2023 – Sep. 2023\end{flushright}
   \end{multicols}
-  \begin{multicols}{2}
-    \parbox{1.4\linewidth}{\textbf{Value Investment Techniques}: Advanced Application and Exploration Research of Valuation Models in CFA Certification}
-  \end{multicols}
-  \vspace{-0.10cm}
+  \vspace{-0.17cm}
 \end{large}
 
 \vspace{1.5pt}
+
 
 * Engaged in research on the application and exploration of value investment techniques and related valuation models. Primarily focused on four US stocks: Microsoft (MSFT), Apple (AAPL), Pfizer (PFE), and Merck (MRK). Analyzed and processed data regarding their Earnings Before Interest and Taxes (EBIT) to Total Revenue, annual return rates, and Earnings Per Share (EPS) from 2019 to 2022.
 * Utilized Pearson correlation coefficients to discuss the correlations among the data and employed function fitting to generate graphs, exploring the impact of various indicators on valuation and their application within valuation models.
