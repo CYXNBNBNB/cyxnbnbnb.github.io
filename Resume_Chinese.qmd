@@ -31,7 +31,7 @@ format:
 
 <!-- CONTACT INFO -->
 \begin{center}电子邮箱: cyxnbnb@bu.edu ∙ cyxnbnbnb@gmail.com \\
-联系方式: +1 8572564713 ∙ +86 13957992893 \\
+联系方式: +86 13957992893 \\
 个人网站: \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
 Github主页: \href{https://github.com/CYXNBNBNB}{github.com/CYXNBNBNB}
 \end{center}
