@@ -45,3 +45,24 @@ Worked in a consulting team hired by “Lobster Land” to evaluate potential ex
 * **Strategic Case Analysis**: Developed a customer segmentation-based cruise product proposal inspired by Royal Caribbean's *Icon of the Seas*.
 
 **Repository**: [GitHub](https://github.com/CYXNBNBNB/AD654-Sp25A3-Project)
+
+
+
+
+## Domestic(U.S.) and International Equity Portfolio research
+
+**Domestic Equity Portfolio Project**
+
+* Constructed a diversified 3-stock U.S. equity portfolio based on historical return and sectoral diversification from 2000 to 2025, using S&P500 and Dow30 as benchmarks.
+* Performed time-series and cross-sectional analysis of monthly holding period yields (HPYs), including mean returns, volatility, Sharpe ratio, and systematic risk (Beta).
+* Estimated expected returns using both CAPM and Dividend Discount Model (DDM) for dividend-paying stocks.
+* Visualized portfolio growth and comparative performance using Excel-based index plots, efficient frontiers, and return-risk plots.
+
+**International Equity Portfolio Project**
+
+* Designed a 6-country international ETF portfolio (including U.S., China, and four additional markets), incorporating both developed and emerging economies to ensure geographical and structural diversification.
+* Computed returns in USD as the Reporting Currency, accounting for foreign exchange rates and using aligned monthly data from 2000 to 2025.
+* Conducted return analysis, risk assessment, and correlation studies across markets to evaluate diversification benefits.
+* Created and interpreted capital base index (CBI) plots, correlation matrices, and international portfolio efficient frontiers.
+
+**Repository**: [AD717-Domestic_n_International_Equity_Portfolio_Project](https://github.com/CYXNBNBNB/AD717-Domestic_n_International_Equity_Portfolio_Project.git)
