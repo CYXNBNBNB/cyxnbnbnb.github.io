@@ -156,7 +156,7 @@ format:
 \begin{large}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf 龙虾乐园: 邮轮业务扩张分析}
-    \begin{flushright}Feb. 2025 – May. 2025\end{flushright}
+    \begin{flushright}2025.2 – 2025.5\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
@@ -180,7 +180,7 @@ format:
 \begin{large}
   \begin{multicols}{2}
   \parbox{1.6\linewidth}{\bf 国内（美国）及国际股票投资组合研究}
-    \begin{flushright}May. 2025 – Jun. 2025\end{flushright}
+    \begin{flushright}2025.5 – 2025.6\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
