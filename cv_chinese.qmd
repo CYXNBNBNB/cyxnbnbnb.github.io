@@ -45,10 +45,12 @@ format:
                 \hspace*{6.5mm}\textbf{| 最高学历:}    & 硕士 \\
                 \hspace*{6.5mm}\textbf{| 专业:}    & 应用商业分析 \\
 
-                \hspace*{6.5mm}\textbf{| 电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
-                                   & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\
-                
                 \hspace*{6.5mm}\textbf{| 联系方式:}    & +86 139-5799-2893 \\
+
+                \hspace*{6.5mm}\textbf{| 电子邮箱:} & 
+                  \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \quad / \quad
+                  \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\
+
                 
                 \hspace*{6.5mm}\textbf{| 个人网站:}     & \href{https://cyxnbnbnb.github.io/}{cyxnbnbnb.github.io} \\
                 
