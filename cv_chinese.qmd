@@ -37,6 +37,14 @@ format:
             \end{minipage}
             
             \begin{tabular}{@{} l @{\hspace{3mm}} l @{}} 
+                \hspace*{6.5mm}\textbf{| 性别:}    & 男 \\
+                \hspace*{6.5mm}\textbf{| 出生年月:}    & 2001年10月30日 \\
+                \hspace*{6.5mm}\textbf{| 政治面貌:}    & 共青团员 \\
+                \hspace*{6.5mm}\textbf{| 籍贯:}    & 浙江金华 \\
+                \hspace*{6.5mm}\textbf{| 固定住址:}    & 杭州市萧山区宁围街道翡翠江南华庭3幢3单元602室 \\
+                \hspace*{6.5mm}\textbf{| 最高学历:}    & 硕士 \\
+                \hspace*{6.5mm}\textbf{| 专业:}    & 应用商业分析 \\
+
                 \hspace*{6.5mm}\textbf{| 电子邮箱:}    & \href{mailto:cyxnbnb@bu.edu}{cyxnbnb@bu.edu} \\
                                    & \href{mailto:cyxnbnbnb@gmail.com}{cyxnbnbnb@gmail.com} \\
                 
@@ -51,7 +59,7 @@ format:
         \end{flushleft}
     \end{minipage}
     &
-    \raisebox{-0.8\height}{\includegraphics[width=0.75\linewidth,keepaspectratio]{images/1_inch.jpg}} % height控制图片高度  width控制图片大小
+    \raisebox{-1.05\height}{\includegraphics[width=0.75\linewidth,keepaspectratio]{images/1_inch.jpg}} % height控制图片高度  width控制图片大小
 \end{tabular}
 \vspace*{2mm}
 
@@ -64,7 +72,7 @@ format:
   \vspace{3pt}
   \hrule
 \end{large}
-* **英语水平**: CET4、CET6、TOEFL
+* **英语水平**: CET4、CET6、TOEFL(97/120)
 * **专业技能**: Python, R, MATLAB, SQL, C, SPSS, Stata, Microsoft Word, PowerPoint, Excel
 
 
@@ -224,7 +232,7 @@ format:
 \vspace{0.2cm}
 
 
-\newpage
+
 <!-- Research Projects : 浙江工业大学 1ST -->
 \begin{large}
   \begin{flushleft}{\bf | 浙江工业大学}\end{flushleft}
@@ -319,9 +327,6 @@ format:
 
 
 
-
-
-\newpage
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf 实习经历}
   \vspace{3pt}
